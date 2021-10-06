@@ -20,14 +20,14 @@ function Home() {
                 <img src={mid} alt="mid" id="mid"/>
             <br/>
             <br/>
-            <Link to="#">
+            <Link to="/risk">
             <AwesomeButton
                 type="secondary"
                 size="large"
                 ripple
                 className="aws-btn"
             >
-            Get Risk Factor Calculated!
+            Get Risk Factor !
             </AwesomeButton>
             </Link>
             </motion.div>
