@@ -4,3 +4,14 @@
     color:azure;
     height:100vh;
 }
+#company-select{
+    color:whitesmoke;
+}
+
+.meter-box{
+    margin-top:7vh;
+}
+
+#meter-title{
+    padding-top:5vh;
+}
