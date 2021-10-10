@@ -8,6 +8,8 @@ import {styled} from '@mui/material/styles';
 import { AwesomeButton } from "react-awesome-button";
 import "react-awesome-button/dist/styles.css";
 import {Link} from "react-router-dom";
+import * as tf from '@tensorflow/tfjs';
+
 const companies = [
   {
     value: 600,
@@ -46,6 +48,13 @@ const CssTextField = styled(TextField)({
     },
   },
 });
+
+async function run(){
+        const MODEL_URL = "./model/model.json";
+        const model = await tf.loadLayersModel('MODEL_URL');
+        console.log(model.summary());
+}
+
 
 function Meter() {
   const [comval, setComval] = useState(500);
@@ -117,6 +126,7 @@ function Meter() {
         <br/>
             <Link to="/">
             <AwesomeButton
+            
                 type="secondary"
                 size="large"
                 ripple
