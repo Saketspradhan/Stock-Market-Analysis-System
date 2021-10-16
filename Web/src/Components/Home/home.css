@@ -3,8 +3,41 @@
     background-color: #0d1117;
     height:100vh;
     color:azure;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
 }
 
 #mid{
-    width:30vw;
+    height:45vh;
+    margin: 4vh 3vw 4vh 0;
 }
+
+#home-title{
+    padding-top:10vh;
+}
+
+.aws-btn {
+
+    --button-default-height: 59px;
+    --button-default-font-size: 17px;
+    --button-default-border-radius: 10px;
+    --button-horizontal-padding: 20px;
+    --button-raise-level: 8px;
+    --button-hover-pressure: 2;
+    --transform-speed: 0.2s;
+    --button-primary-color: #a9d3e9;
+    --button-primary-color-dark: #58a9d4;
+    --button-primary-color-light: #2e84b2;
+    --button-primary-color-hover: #95c9e4;
+    --button-primary-border: none;
+    --button-secondary-color: #fafafa;
+    --button-secondary-color-dark: #67cbc3;
+    --button-secondary-color-light: #349890;
+    --button-secondary-color-hover: #ecf9f8;
+    --button-secondary-border: 2px solid #b3e5e1;
+    --button-anchor-color: #95d44a;
+    --button-anchor-color-dark: #52a934;
+    --button-anchor-color-light: #3f8228;
+    --button-anchor-color-hover: #89cf35;
+    --button-anchor-border: 2px solid #5bbd3a;
+    }
