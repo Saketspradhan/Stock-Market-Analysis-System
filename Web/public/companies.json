@@ -1,0 +1,3056 @@
+[
+  {
+    "Label": "A B M Internatl.",
+    "Value": "A_B_M_Internatl.",
+    "Index": 0,
+    "real": 125.45
+  },
+  {
+    "Label": "A Infrastructure",
+    "Value": "A_Infrastructure",
+    "Index": 1,
+    "real": 31.8
+  },
+  {
+    "Label": "Aarti Drugs",
+    "Value": "Aarti_Drugs",
+    "Index": 2,
+    "real": 604.5
+  },
+  {
+    "Label": "Aarvi Encon",
+    "Value": "Aarvi_Encon",
+    "Index": 3,
+    "real": 60.3
+  },
+  {
+    "Label": "Abbott India",
+    "Value": "Abbott_India",
+    "Index": 4,
+    "real": 22031.25
+  },
+  {
+    "Label": "Abhinav Capital",
+    "Value": "Abhinav_Capital",
+    "Index": 5,
+    "real": 38.45
+  },
+  {
+    "Label": "ABM Knowledge",
+    "Value": "ABM_Knowledge",
+    "Index": 6,
+    "real": 113.6
+  },
+  {
+    "Label": "ACC",
+    "Value": "ACC",
+    "Index": 7,
+    "real": 2237.5
+  },
+  {
+    "Label": "Acknit Indus.",
+    "Value": "Acknit_Indus.",
+    "Index": 8,
+    "real": 115.5
+  },
+  {
+    "Label": "Action Const.Eq.",
+    "Value": "Action_Const.Eq.",
+    "Index": 9,
+    "real": 258.95
+  },
+  {
+    "Label": "Adani Power",
+    "Value": "Adani_Power",
+    "Index": 10,
+    "real": 96.95
+  },
+  {
+    "Label": "Ador Fontech",
+    "Value": "Ador_Fontech",
+    "Index": 11,
+    "real": 69.25
+  },
+  {
+    "Label": "Ahluwalia Contr.",
+    "Value": "Ahluwalia_Contr.",
+    "Index": 12,
+    "real": 353.65
+  },
+  {
+    "Label": "Ajanta Pharma",
+    "Value": "Ajanta_Pharma",
+    "Index": 13,
+    "real": 2260.4
+  },
+  {
+    "Label": "Ajanta Soya",
+    "Value": "Ajanta_Soya",
+    "Index": 14,
+    "real": 127.15
+  },
+  {
+    "Label": "Ajcon Global",
+    "Value": "Ajcon_Global",
+    "Index": 15,
+    "real": 34.5
+  },
+  {
+    "Label": "Akshar Spintex",
+    "Value": "Akshar_Spintex",
+    "Index": 16,
+    "real": 30.85
+  },
+  {
+    "Label": "Alkem Lab",
+    "Value": "Alkem_Lab",
+    "Index": 17,
+    "real": 3990.05
+  },
+  {
+    "Label": "Alkyl Amines",
+    "Value": "Alkyl_Amines",
+    "Index": 18,
+    "real": 3849.9
+  },
+  {
+    "Label": "Amarjothi Spg.",
+    "Value": "Amarjothi_Spg.",
+    "Index": 19,
+    "real": 157.95
+  },
+  {
+    "Label": "Amba Enterprises",
+    "Value": "Amba_Enterprises",
+    "Index": 20,
+    "real": 26.75
+  },
+  {
+    "Label": "Ambar Protein",
+    "Value": "Ambar_Protein",
+    "Index": 21,
+    "real": 13.77
+  },
+  {
+    "Label": "Ambika Cotton",
+    "Value": "Ambika_Cotton",
+    "Index": 22,
+    "real": 1816.45
+  },
+  {
+    "Label": "Amines & Plast.",
+    "Value": "Amines_&_Plast.",
+    "Index": 23,
+    "real": 116.05
+  },
+  {
+    "Label": "Amrutanjan Healt",
+    "Value": "Amrutanjan_Healt",
+    "Index": 24,
+    "real": 821.3
+  },
+  {
+    "Label": "Andhra Petrochem",
+    "Value": "Andhra_Petrochem",
+    "Index": 25,
+    "real": 141.4
+  },
+  {
+    "Label": "Angel Fibers",
+    "Value": "Angel_Fibers",
+    "Index": 26,
+    "real": 25
+  },
+  {
+    "Label": "Anjani Portland",
+    "Value": "Anjani_Portland",
+    "Index": 27,
+    "real": 391.75
+  },
+  {
+    "Label": "Ansal Buildwell",
+    "Value": "Ansal_Buildwell",
+    "Index": 28,
+    "real": 68.9
+  },
+  {
+    "Label": "Apar Inds.",
+    "Value": "Apar_Inds.",
+    "Index": 29,
+    "real": 639.95
+  },
+  {
+    "Label": "APM Finvest",
+    "Value": "APM_Finvest",
+    "Index": 30,
+    "real": 32.8
+  },
+  {
+    "Label": "Apollo Tricoat",
+    "Value": "Apollo_Tricoat",
+    "Index": 31,
+    "real": 786.3
+  },
+  {
+    "Label": "Apollo Tyres",
+    "Value": "Apollo_Tyres",
+    "Index": 32,
+    "real": 224.25
+  },
+  {
+    "Label": "Archit Organosys",
+    "Value": "Archit_Organosys",
+    "Index": 33,
+    "real": 49.25
+  },
+  {
+    "Label": "Aries Agro",
+    "Value": "Aries_Agro",
+    "Index": 34,
+    "real": 147
+  },
+  {
+    "Label": "Arihant's Secur.",
+    "Value": "Arihant's_Secur.",
+    "Index": 35,
+    "real": 8
+  },
+  {
+    "Label": "Arrow Greentech",
+    "Value": "Arrow_Greentech",
+    "Index": 36,
+    "real": 119.7
+  },
+  {
+    "Label": "Arunis Abode",
+    "Value": "Arunis_Abode",
+    "Index": 37,
+    "real": 29
+  },
+  {
+    "Label": "Ashiana Ispat",
+    "Value": "Ashiana_Ispat",
+    "Index": 38,
+    "real": 14.5
+  },
+  {
+    "Label": "Ashish Polyplast",
+    "Value": "Ashish_Polyplast",
+    "Index": 39,
+    "real": 11.69
+  },
+  {
+    "Label": "Asian Paints",
+    "Value": "Asian_Paints",
+    "Index": 40,
+    "real": 3177.85
+  },
+  {
+    "Label": "Astral",
+    "Value": "Astral",
+    "Index": 41,
+    "real": 2199.8
+  },
+  {
+    "Label": "Astrazeneca Phar",
+    "Value": "Astrazeneca_Phar",
+    "Index": 42,
+    "real": 3097.85
+  },
+  {
+    "Label": "Atishay",
+    "Value": "Atishay",
+    "Index": 43,
+    "real": 31.5
+  },
+  {
+    "Label": "Auro Labs.",
+    "Value": "Auro_Labs.",
+    "Index": 44,
+    "real": 120.8
+  },
+  {
+    "Label": "Aurobindo Pharma",
+    "Value": "Aurobindo_Pharma",
+    "Index": 45,
+    "real": 717.3
+  },
+  {
+    "Label": "Ausom Enter.",
+    "Value": "Ausom_Enter.",
+    "Index": 46,
+    "real": 66.3
+  },
+  {
+    "Label": "Austin Engg Co",
+    "Value": "Austin_Engg_Co",
+    "Index": 47,
+    "real": 54.7
+  },
+  {
+    "Label": "Axtel Industries",
+    "Value": "Axtel_Industries",
+    "Index": 48,
+    "real": 320
+  },
+  {
+    "Label": "B & A",
+    "Value": "B_&_A",
+    "Index": 49,
+    "real": 224.95
+  },
+  {
+    "Label": "Balkrishna Inds",
+    "Value": "Balkrishna_Inds",
+    "Index": 50,
+    "real": 2541.4
+  },
+  {
+    "Label": "Balrampur Chini",
+    "Value": "Balrampur_Chini",
+    "Index": 51,
+    "real": 366.25
+  },
+  {
+    "Label": "Bambino Agro Ind",
+    "Value": "Bambino_Agro_Ind",
+    "Index": 52,
+    "real": 285.2
+  },
+  {
+    "Label": "Banco Products",
+    "Value": "Banco_Products",
+    "Index": 53,
+    "real": 192.8
+  },
+  {
+    "Label": "BASF India",
+    "Value": "BASF_India",
+    "Index": 54,
+    "real": 3444.8
+  },
+  {
+    "Label": "Bemco Hydraulics",
+    "Value": "Bemco_Hydraulics",
+    "Index": 55,
+    "real": 295
+  },
+  {
+    "Label": "Bengal & Assam",
+    "Value": "Bengal_&_Assam",
+    "Index": 56,
+    "real": 2388.95
+  },
+  {
+    "Label": "Bengal Tea & Fab",
+    "Value": "Bengal_Tea_&_Fab",
+    "Index": 57,
+    "real": 63.6
+  },
+  {
+    "Label": "Beta Drugs Ltd",
+    "Value": "Beta_Drugs_Ltd",
+    "Index": 58,
+    "real": 455
+  },
+  {
+    "Label": "Bhansali Engg.",
+    "Value": "Bhansali_Engg.",
+    "Index": 59,
+    "real": 187.8
+  },
+  {
+    "Label": "Bhaskar Agrochem",
+    "Value": "Bhaskar_Agrochem",
+    "Index": 60,
+    "real": 42
+  },
+  {
+    "Label": "Bihar Sponge",
+    "Value": "Bihar_Sponge",
+    "Index": 61,
+    "real": 10.63
+  },
+  {
+    "Label": "Birla Corpn.",
+    "Value": "Birla_Corpn.",
+    "Index": 62,
+    "real": 1387.55
+  },
+  {
+    "Label": "Birlasoft Ltd",
+    "Value": "Birlasoft_Ltd",
+    "Index": 63,
+    "real": 397.25
+  },
+  {
+    "Label": "BKV Industries",
+    "Value": "BKV_Industries",
+    "Index": 64,
+    "real": 8.05
+  },
+  {
+    "Label": "Black Rose Indus",
+    "Value": "Black_Rose_Indus",
+    "Index": 65,
+    "real": 193.45
+  },
+  {
+    "Label": "BLB",
+    "Value": "BLB",
+    "Index": 66,
+    "real": 9.65
+  },
+  {
+    "Label": "Blue Dart Expres",
+    "Value": "Blue_Dart_Expres",
+    "Index": 67,
+    "real": 6419.7
+  },
+  {
+    "Label": "Borosil Renew.",
+    "Value": "Borosil_Renew.",
+    "Index": 68,
+    "real": 305.75
+  },
+  {
+    "Label": "BPCL",
+    "Value": "BPCL",
+    "Index": 69,
+    "real": 433.05
+  },
+  {
+    "Label": "Butterfly Gan Ap",
+    "Value": "Butterfly_Gan_Ap",
+    "Index": 70,
+    "real": 954.55
+  },
+  {
+    "Label": "Cadila Health.",
+    "Value": "Cadila_Health.",
+    "Index": 71,
+    "real": 555.7
+  },
+  {
+    "Label": "Caplin Point Lab",
+    "Value": "Caplin_Point_Lab",
+    "Index": 72,
+    "real": 877.1
+  },
+  {
+    "Label": "Caprihans India",
+    "Value": "Caprihans_India",
+    "Index": 73,
+    "real": 138
+  },
+  {
+    "Label": "CARE Ratings",
+    "Value": "CARE_Ratings",
+    "Index": 74,
+    "real": 671.55
+  },
+  {
+    "Label": "Catvision Ltd",
+    "Value": "Catvision_Ltd",
+    "Index": 75,
+    "real": 10.2
+  },
+  {
+    "Label": "CCL Internationa",
+    "Value": "CCL_Internationa",
+    "Index": 76,
+    "real": 14.67
+  },
+  {
+    "Label": "CDSL",
+    "Value": "CDSL",
+    "Index": 77,
+    "real": 1289.8
+  },
+  {
+    "Label": "Cenlub Industrie",
+    "Value": "Cenlub_Industrie",
+    "Index": 78,
+    "real": 70.55
+  },
+  {
+    "Label": "CESC",
+    "Value": "CESC",
+    "Index": 79,
+    "real": 91.4
+  },
+  {
+    "Label": "CG-VAK Software",
+    "Value": "CG-VAK_Software",
+    "Index": 80,
+    "real": 144.05
+  },
+  {
+    "Label": "Chambal Fert.",
+    "Value": "Chambal_Fert.",
+    "Index": 81,
+    "real": 339.85
+  },
+  {
+    "Label": "Chembond Chem.",
+    "Value": "Chembond_Chem.",
+    "Index": 82,
+    "real": 223
+  },
+  {
+    "Label": "Cil Securities",
+    "Value": "Cil_Securities",
+    "Index": 83,
+    "real": 18.1
+  },
+  {
+    "Label": "Commercial Eng.",
+    "Value": "Commercial_Eng.",
+    "Index": 84,
+    "real": 33.4
+  },
+  {
+    "Label": "Competent Auto",
+    "Value": "Competent_Auto",
+    "Index": 85,
+    "real": 203.05
+  },
+  {
+    "Label": "Cont. Petroleums",
+    "Value": "Cont._Petroleums",
+    "Index": 86,
+    "real": 53.75
+  },
+  {
+    "Label": "Coral Labs.",
+    "Value": "Coral_Labs.",
+    "Index": 87,
+    "real": 401.3
+  },
+  {
+    "Label": "Cosmo Films",
+    "Value": "Cosmo_Films",
+    "Index": 88,
+    "real": 1471.05
+  },
+  {
+    "Label": "CPCL",
+    "Value": "CPCL",
+    "Index": 89,
+    "real": 123.7
+  },
+  {
+    "Label": "Cyber Media Ind",
+    "Value": "Cyber_Media_Ind",
+    "Index": 90,
+    "real": 10.2
+  },
+  {
+    "Label": "Dalmia Bharat",
+    "Value": "Dalmia_Bharat",
+    "Index": 91,
+    "real": 444.3
+  },
+  {
+    "Label": "Datamatics Glob.",
+    "Value": "Datamatics_Glob.",
+    "Index": 92,
+    "real": 300.85
+  },
+  {
+    "Label": "Daulat Securitie",
+    "Value": "Daulat_Securitie",
+    "Index": 93,
+    "real": 23.6
+  },
+  {
+    "Label": "DCW",
+    "Value": "DCW",
+    "Index": 94,
+    "real": 48.95
+  },
+  {
+    "Label": "Deccan Cements",
+    "Value": "Deccan_Cements",
+    "Index": 95,
+    "real": 726.3
+  },
+  {
+    "Label": "Deepak Fertiliz.",
+    "Value": "Deepak_Fertiliz.",
+    "Index": 96,
+    "real": 415.65
+  },
+  {
+    "Label": "Deepak Nitrite",
+    "Value": "Deepak_Nitrite",
+    "Index": 97,
+    "real": 2382.45
+  },
+  {
+    "Label": "Deepak Spinners",
+    "Value": "Deepak_Spinners",
+    "Index": 98,
+    "real": 268.15
+  },
+  {
+    "Label": "Den Networks",
+    "Value": "Den_Networks",
+    "Index": 99,
+    "real": 48.45
+  },
+  {
+    "Label": "DFM Foods",
+    "Value": "DFM_Foods",
+    "Index": 100,
+    "real": 349.6
+  },
+  {
+    "Label": "Dhampur Sugar",
+    "Value": "Dhampur_Sugar",
+    "Index": 101,
+    "real": 303.75
+  },
+  {
+    "Label": "Dhanalaxmi Roto",
+    "Value": "Dhanalaxmi_Roto",
+    "Index": 102,
+    "real": 90.3
+  },
+  {
+    "Label": "Dhoot Indl.Fin",
+    "Value": "Dhoot_Indl.Fin",
+    "Index": 103,
+    "real": 125.1
+  },
+  {
+    "Label": "Dhunseri Tea",
+    "Value": "Dhunseri_Tea",
+    "Index": 104,
+    "real": 260.7
+  },
+  {
+    "Label": "Diana Tea Co",
+    "Value": "Diana_Tea_Co",
+    "Index": 105,
+    "real": 26.05
+  },
+  {
+    "Label": "DLF",
+    "Value": "DLF",
+    "Index": 106,
+    "real": 417.2
+  },
+  {
+    "Label": "Dolat Investment",
+    "Value": "Dolat_Investment",
+    "Index": 107,
+    "real": 90.35
+  },
+  {
+    "Label": "Dr Lal Pathlabs",
+    "Value": "Dr_Lal_Pathlabs",
+    "Index": 108,
+    "real": 3707.05
+  },
+  {
+    "Label": "Dr Lalchand. Lab",
+    "Value": "Dr_Lalchand._Lab",
+    "Index": 109,
+    "real": 25.8
+  },
+  {
+    "Label": "Dutron Polymers",
+    "Value": "Dutron_Polymers",
+    "Index": 110,
+    "real": 224.75
+  },
+  {
+    "Label": "Dwarikesh Sugar",
+    "Value": "Dwarikesh_Sugar",
+    "Index": 111,
+    "real": 72.15
+  },
+  {
+    "Label": "E.Com Infotech",
+    "Value": "E.Com_Infotech",
+    "Index": 112,
+    "real": 10.55
+  },
+  {
+    "Label": "eClerx Services",
+    "Value": "eClerx_Services",
+    "Index": 113,
+    "real": 2206.35
+  },
+  {
+    "Label": "Elantas Beck",
+    "Value": "Elantas_Beck",
+    "Index": 114,
+    "real": 3756.5
+  },
+  {
+    "Label": "Eldeco Housing",
+    "Value": "Eldeco_Housing",
+    "Index": 115,
+    "real": 3101.7
+  },
+  {
+    "Label": "Elecon Engg.Co",
+    "Value": "Elecon_Engg.Co",
+    "Index": 116,
+    "real": 168.35
+  },
+  {
+    "Label": "Elnet Technolog",
+    "Value": "Elnet_Technolog",
+    "Index": 117,
+    "real": 172.25
+  },
+  {
+    "Label": "Emami",
+    "Value": "Emami",
+    "Index": 118,
+    "real": 569.95
+  },
+  {
+    "Label": "Emk.Global Fin.",
+    "Value": "Emk.Global_Fin.",
+    "Index": 119,
+    "real": 114.55
+  },
+  {
+    "Label": "Emmessar Biotech",
+    "Value": "Emmessar_Biotech",
+    "Index": 120,
+    "real": 33.9
+  },
+  {
+    "Label": "Equitas Holdings",
+    "Value": "Equitas_Holdings",
+    "Index": 121,
+    "real": 120.2
+  },
+  {
+    "Label": "ERIS Lifescience",
+    "Value": "ERIS_Lifescience",
+    "Index": 122,
+    "real": 767.85
+  },
+  {
+    "Label": "Escorts",
+    "Value": "Escorts",
+    "Index": 123,
+    "real": 1471.95
+  },
+  {
+    "Label": "ETT Ltd",
+    "Value": "ETT_Ltd",
+    "Index": 124,
+    "real": 30.75
+  },
+  {
+    "Label": "Everest Kanto",
+    "Value": "Everest_Kanto",
+    "Index": 125,
+    "real": 117.65
+  },
+  {
+    "Label": "Expleo Solutions",
+    "Value": "Expleo_Solutions",
+    "Index": 126,
+    "real": 1008.35
+  },
+  {
+    "Label": "Exxaro Tiles",
+    "Value": "Exxaro_Tiles",
+    "Index": 127,
+    "real": 152.85
+  },
+  {
+    "Label": "FACT",
+    "Value": "FACT",
+    "Index": 128,
+    "real": 126.05
+  },
+  {
+    "Label": "Finolex Inds.",
+    "Value": "Finolex_Inds.",
+    "Index": 129,
+    "real": 216
+  },
+  {
+    "Label": "Flex Foods",
+    "Value": "Flex_Foods",
+    "Index": 130,
+    "real": 104.05
+  },
+  {
+    "Label": "Flomic Global",
+    "Value": "Flomic_Global",
+    "Index": 131,
+    "real": 98.8
+  },
+  {
+    "Label": "Flora Textiles",
+    "Value": "Flora_Textiles",
+    "Index": 132,
+    "real": 7.35
+  },
+  {
+    "Label": "Freshtrop Fruits",
+    "Value": "Freshtrop_Fruits",
+    "Index": 133,
+    "real": 113.95
+  },
+  {
+    "Label": "Futuristic Solu",
+    "Value": "Futuristic_Solu",
+    "Index": 134,
+    "real": 19.8
+  },
+  {
+    "Label": "Galaxy Surfact.",
+    "Value": "Galaxy_Surfact.",
+    "Index": 135,
+    "real": 3392.1
+  },
+  {
+    "Label": "Gallantt Metal",
+    "Value": "Gallantt_Metal",
+    "Index": 136,
+    "real": 76
+  },
+  {
+    "Label": "Ganges Securitie",
+    "Value": "Ganges_Securitie",
+    "Index": 137,
+    "real": 90.25
+  },
+  {
+    "Label": "Garg Furnace",
+    "Value": "Garg_Furnace",
+    "Index": 138,
+    "real": 24.7
+  },
+  {
+    "Label": "Garnet Construct",
+    "Value": "Garnet_Construct",
+    "Index": 139,
+    "real": 24.6
+  },
+  {
+    "Label": "Garware Hi Tech",
+    "Value": "Garware_Hi_Tech",
+    "Index": 140,
+    "real": 928.15
+  },
+  {
+    "Label": "Garware Marine",
+    "Value": "Garware_Marine",
+    "Index": 141,
+    "real": 7.45
+  },
+  {
+    "Label": "Garware Tech.",
+    "Value": "Garware_Tech.",
+    "Index": 142,
+    "real": 3329.05
+  },
+  {
+    "Label": "GE Shipping Co",
+    "Value": "GE_Shipping_Co",
+    "Index": 143,
+    "real": 367.25
+  },
+  {
+    "Label": "GE T&D India",
+    "Value": "GE_T&D_India",
+    "Index": 144,
+    "real": 127.4
+  },
+  {
+    "Label": "GIC Housing Fin",
+    "Value": "GIC_Housing_Fin",
+    "Index": 145,
+    "real": 148.55
+  },
+  {
+    "Label": "Gillette India",
+    "Value": "Gillette_India",
+    "Index": 146,
+    "real": 5869.15
+  },
+  {
+    "Label": "GKW",
+    "Value": "GKW",
+    "Index": 147,
+    "real": 640.6
+  },
+  {
+    "Label": "Glaxosmi. Pharma",
+    "Value": "Glaxosmi._Pharma",
+    "Index": 148,
+    "real": 1469.3
+  },
+  {
+    "Label": "Glenmark Pharma.",
+    "Value": "Glenmark_Pharma.",
+    "Index": 149,
+    "real": 513.15
+  },
+  {
+    "Label": "Globus Spirits",
+    "Value": "Globus_Spirits",
+    "Index": 150,
+    "real": 1336.4
+  },
+  {
+    "Label": "GNFC",
+    "Value": "GNFC",
+    "Index": 151,
+    "real": 425.2
+  },
+  {
+    "Label": "Godawari Power",
+    "Value": "Godawari_Power",
+    "Index": 152,
+    "real": 1280.9
+  },
+  {
+    "Label": "Godrej Consumer",
+    "Value": "Godrej_Consumer",
+    "Index": 153,
+    "real": 1020.35
+  },
+  {
+    "Label": "Goenka Business",
+    "Value": "Goenka_Business",
+    "Index": 154,
+    "real": 6.51
+  },
+  {
+    "Label": "Goodyear India",
+    "Value": "Goodyear_India",
+    "Index": 155,
+    "real": 1038.15
+  },
+  {
+    "Label": "Gorani Industrie",
+    "Value": "Gorani_Industrie",
+    "Index": 156,
+    "real": 26
+  },
+  {
+    "Label": "GPT Infraproject",
+    "Value": "GPT_Infraproject",
+    "Index": 157,
+    "real": 91.65
+  },
+  {
+    "Label": "Gravita India",
+    "Value": "Gravita_India",
+    "Index": 158,
+    "real": 197.8
+  },
+  {
+    "Label": "Greenpanel Inds.",
+    "Value": "Greenpanel_Inds.",
+    "Index": 159,
+    "real": 325.1
+  },
+  {
+    "Label": "Gretex Corporate",
+    "Value": "Gretex_Corporate",
+    "Index": 160,
+    "real": 201.25
+  },
+  {
+    "Label": "Grindwell Norton",
+    "Value": "Grindwell_Norton",
+    "Index": 161,
+    "real": 1424.65
+  },
+  {
+    "Label": "Grob Tea Co",
+    "Value": "Grob_Tea_Co",
+    "Index": 162,
+    "real": 1076.6
+  },
+  {
+    "Label": "GSFC",
+    "Value": "GSFC",
+    "Index": 163,
+    "real": 128.45
+  },
+  {
+    "Label": "GTPL Hathway",
+    "Value": "GTPL_Hathway",
+    "Index": 164,
+    "real": 293.6
+  },
+  {
+    "Label": "Gufic BioScience",
+    "Value": "Gufic_BioScience",
+    "Index": 165,
+    "real": 192.75
+  },
+  {
+    "Label": "Guj. Containers",
+    "Value": "Guj._Containers",
+    "Index": 166,
+    "real": 49.95
+  },
+  {
+    "Label": "Gulshan Polyols",
+    "Value": "Gulshan_Polyols",
+    "Index": 167,
+    "real": 281.85
+  },
+  {
+    "Label": "H P Cotton Tex",
+    "Value": "H_P_Cotton_Tex",
+    "Index": 168,
+    "real": 92.55
+  },
+  {
+    "Label": "Hariyana Ship",
+    "Value": "Hariyana_Ship",
+    "Index": 169,
+    "real": 110.7
+  },
+  {
+    "Label": "Harri. Malayalam",
+    "Value": "Harri._Malayalam",
+    "Index": 170,
+    "real": 189.4
+  },
+  {
+    "Label": "Hatsun Agro",
+    "Value": "Hatsun_Agro",
+    "Index": 171,
+    "real": 1424.45
+  },
+  {
+    "Label": "Haz.Multi Proj.",
+    "Value": "Haz.Multi_Proj.",
+    "Index": 172,
+    "real": 17.75
+  },
+  {
+    "Label": "HB Portfolio",
+    "Value": "HB_Portfolio",
+    "Index": 173,
+    "real": 32.6
+  },
+  {
+    "Label": "HCL Technologies",
+    "Value": "HCL_Technologies",
+    "Index": 174,
+    "real": 1273.75
+  },
+  {
+    "Label": "Heritage Foods",
+    "Value": "Heritage_Foods",
+    "Index": 175,
+    "real": 462.3
+  },
+  {
+    "Label": "Hester Bios",
+    "Value": "Hester_Bios",
+    "Index": 176,
+    "real": 2459.5
+  },
+  {
+    "Label": "HG Industries",
+    "Value": "HG_Industries",
+    "Index": 177,
+    "real": 92.1
+  },
+  {
+    "Label": "High Energy Bat.",
+    "Value": "High_Energy_Bat.",
+    "Index": 178,
+    "real": 1939.8
+  },
+  {
+    "Label": "Hikal",
+    "Value": "Hikal",
+    "Index": 179,
+    "real": 576.55
+  },
+  {
+    "Label": "Hiliks Technolog",
+    "Value": "Hiliks_Technolog",
+    "Index": 180,
+    "real": 15.3
+  },
+  {
+    "Label": "Hind.Aeronautics",
+    "Value": "Hind.Aeronautics",
+    "Index": 181,
+    "real": 1338
+  },
+  {
+    "Label": "Hind.Composites",
+    "Value": "Hind.Composites",
+    "Index": 182,
+    "real": 325.4
+  },
+  {
+    "Label": "Hindustan Copper",
+    "Value": "Hindustan_Copper",
+    "Index": 183,
+    "real": 109.85
+  },
+  {
+    "Label": "Hindustan Hardy",
+    "Value": "Hindustan_Hardy",
+    "Index": 184,
+    "real": 266.05
+  },
+  {
+    "Label": "Hindustan Zinc",
+    "Value": "Hindustan_Zinc",
+    "Index": 185,
+    "real": 306.15
+  },
+  {
+    "Label": "Hitech Corp.",
+    "Value": "Hitech_Corp.",
+    "Index": 186,
+    "real": 222.3
+  },
+  {
+    "Label": "IFB Industries",
+    "Value": "IFB_Industries",
+    "Index": 187,
+    "real": 1193.6
+  },
+  {
+    "Label": "IFGL Refractori.",
+    "Value": "IFGL_Refractori.",
+    "Index": 188,
+    "real": 317.7
+  },
+  {
+    "Label": "Indbank Merchant",
+    "Value": "Indbank_Merchant",
+    "Index": 189,
+    "real": 23.1
+  },
+  {
+    "Label": "India Gelatine",
+    "Value": "India_Gelatine",
+    "Index": 190,
+    "real": 141.9
+  },
+  {
+    "Label": "India Power Corp",
+    "Value": "India_Power_Corp",
+    "Index": 191,
+    "real": 15.5
+  },
+  {
+    "Label": "Indiamart Inter.",
+    "Value": "Indiamart_Inter.",
+    "Index": 192,
+    "real": 8310.6
+  },
+  {
+    "Label": "Indian Energy Ex",
+    "Value": "Indian_Energy_Ex",
+    "Index": 193,
+    "real": 620.35
+  },
+  {
+    "Label": "Indian Metals",
+    "Value": "Indian_Metals",
+    "Index": 194,
+    "real": 768.85
+  },
+  {
+    "Label": "Indian Toners",
+    "Value": "Indian_Toners",
+    "Index": 195,
+    "real": 155.15
+  },
+  {
+    "Label": "Indo Asia Financ",
+    "Value": "Indo_Asia_Financ",
+    "Index": 196,
+    "real": 6.56
+  },
+  {
+    "Label": "Indo Tech.Trans.",
+    "Value": "Indo_Tech.Trans.",
+    "Index": 197,
+    "real": 153.95
+  },
+  {
+    "Label": "Indoco Remedies",
+    "Value": "Indoco_Remedies",
+    "Index": 198,
+    "real": 446.85
+  },
+  {
+    "Label": "INEOS Styrolut.",
+    "Value": "INEOS_Styrolut.",
+    "Index": 199,
+    "real": 1404.8
+  },
+  {
+    "Label": "Infosys",
+    "Value": "Infosys",
+    "Index": 200,
+    "real": 1665.15
+  },
+  {
+    "Label": "Intec Capital",
+    "Value": "Intec_Capital",
+    "Index": 201,
+    "real": 16.65
+  },
+  {
+    "Label": "Inter State Oil",
+    "Value": "Inter_State_Oil",
+    "Index": 202,
+    "real": 16.45
+  },
+  {
+    "Label": "Intl. Conveyors",
+    "Value": "Intl._Conveyors",
+    "Index": 203,
+    "real": 70.85
+  },
+  {
+    "Label": "Intrasoft Tech.",
+    "Value": "Intrasoft_Tech.",
+    "Index": 204,
+    "real": 127.4
+  },
+  {
+    "Label": "IOB",
+    "Value": "IOB",
+    "Index": 205,
+    "real": 22.5
+  },
+  {
+    "Label": "ION Exchange",
+    "Value": "ION_Exchange",
+    "Index": 206,
+    "real": 2225.6
+  },
+  {
+    "Label": "IRIS Business",
+    "Value": "IRIS_Business",
+    "Index": 207,
+    "real": 111
+  },
+  {
+    "Label": "IST",
+    "Value": "IST",
+    "Index": 208,
+    "real": 492.75
+  },
+  {
+    "Label": "J B Chem & Pharm",
+    "Value": "J_B_Chem_&_Pharm",
+    "Index": 209,
+    "real": 1886.2
+  },
+  {
+    "Label": "J K Cements",
+    "Value": "J_K_Cements",
+    "Index": 210,
+    "real": 3208.5
+  },
+  {
+    "Label": "Jagsonpal Pharma",
+    "Value": "Jagsonpal_Pharma",
+    "Index": 211,
+    "real": 155.6
+  },
+  {
+    "Label": "Jainex Aamcol",
+    "Value": "Jainex_Aamcol",
+    "Index": 212,
+    "real": 50.25
+  },
+  {
+    "Label": "Jamna Auto Inds.",
+    "Value": "Jamna_Auto_Inds.",
+    "Index": 213,
+    "real": 90.05
+  },
+  {
+    "Label": "Jay Shree Tea",
+    "Value": "Jay_Shree_Tea",
+    "Index": 214,
+    "real": 105.8
+  },
+  {
+    "Label": "Jeevan Scienti.",
+    "Value": "Jeevan_Scienti.",
+    "Index": 215,
+    "real": 93.85
+  },
+  {
+    "Label": "Jenburkt Pharma",
+    "Value": "Jenburkt_Pharma",
+    "Index": 216,
+    "real": 480.85
+  },
+  {
+    "Label": "Jet Freight",
+    "Value": "Jet_Freight",
+    "Index": 217,
+    "real": 52
+  },
+  {
+    "Label": "Jindal Poly Film",
+    "Value": "Jindal_Poly_Film",
+    "Index": 218,
+    "real": 1013.55
+  },
+  {
+    "Label": "Jindal Stain.",
+    "Value": "Jindal_Stain.",
+    "Index": 219,
+    "real": 168.35
+  },
+  {
+    "Label": "Jindal Stain. Hi",
+    "Value": "Jindal_Stain._Hi",
+    "Index": 220,
+    "real": 298.25
+  },
+  {
+    "Label": "Jindal Steel",
+    "Value": "Jindal_Steel",
+    "Index": 221,
+    "real": 401.7
+  },
+  {
+    "Label": "Jindal Worldwide",
+    "Value": "Jindal_Worldwide",
+    "Index": 222,
+    "real": 93.9
+  },
+  {
+    "Label": "JK Lakshmi Cem.",
+    "Value": "JK_Lakshmi_Cem.",
+    "Index": 223,
+    "real": 627
+  },
+  {
+    "Label": "JK Tyre & Indust",
+    "Value": "JK_Tyre_&_Indust",
+    "Index": 224,
+    "real": 148.9
+  },
+  {
+    "Label": "Jonjua Overseas",
+    "Value": "Jonjua_Overseas",
+    "Index": 225,
+    "real": 14.09
+  },
+  {
+    "Label": "JSL Industries",
+    "Value": "JSL_Industries",
+    "Index": 226,
+    "real": 210
+  },
+  {
+    "Label": "JSW Steel",
+    "Value": "JSW_Steel",
+    "Index": 227,
+    "real": 674.25
+  },
+  {
+    "Label": "Jubilant Pharmo",
+    "Value": "Jubilant_Pharmo",
+    "Index": 228,
+    "real": 628.5
+  },
+  {
+    "Label": "Jullundur Motor",
+    "Value": "Jullundur_Motor",
+    "Index": 229,
+    "real": 60.9
+  },
+  {
+    "Label": "Jyothy Labs",
+    "Value": "Jyothy_Labs",
+    "Index": 230,
+    "real": 167.4
+  },
+  {
+    "Label": "K P R Mill Ltd",
+    "Value": "K_P_R_Mill_Ltd",
+    "Index": 231,
+    "real": 426.05
+  },
+  {
+    "Label": "Kabra Extrusion",
+    "Value": "Kabra_Extrusion",
+    "Index": 232,
+    "real": 258.85
+  },
+  {
+    "Label": "Kakatiya Cement",
+    "Value": "Kakatiya_Cement",
+    "Index": 233,
+    "real": 241.65
+  },
+  {
+    "Label": "Kalyani Forge",
+    "Value": "Kalyani_Forge",
+    "Index": 234,
+    "real": 199.95
+  },
+  {
+    "Label": "Kanco Tea",
+    "Value": "Kanco_Tea",
+    "Index": 235,
+    "real": 70
+  },
+  {
+    "Label": "Kanoria Chem.",
+    "Value": "Kanoria_Chem.",
+    "Index": 236,
+    "real": 201.7
+  },
+  {
+    "Label": "Kansal Fibres",
+    "Value": "Kansal_Fibres",
+    "Index": 237,
+    "real": 9.5
+  },
+  {
+    "Label": "Karur Vysya Bank",
+    "Value": "Karur_Vysya_Bank",
+    "Index": 238,
+    "real": 47
+  },
+  {
+    "Label": "KCP",
+    "Value": "KCP",
+    "Index": 239,
+    "real": 136.4
+  },
+  {
+    "Label": "Keerthi Indus",
+    "Value": "Keerthi_Indus",
+    "Index": 240,
+    "real": 149.95
+  },
+  {
+    "Label": "Kernex Microsys.",
+    "Value": "Kernex_Microsys.",
+    "Index": 241,
+    "real": 73.4
+  },
+  {
+    "Label": "Khaitan Chemical",
+    "Value": "Khaitan_Chemical",
+    "Index": 242,
+    "real": 59.1
+  },
+  {
+    "Label": "KLG Capital",
+    "Value": "KLG_Capital",
+    "Index": 243,
+    "real": 7.4
+  },
+  {
+    "Label": "KMG Milk Food",
+    "Value": "KMG_Milk_Food",
+    "Index": 244,
+    "real": 15
+  },
+  {
+    "Label": "Kothari Petroche",
+    "Value": "Kothari_Petroche",
+    "Index": 245,
+    "real": 51.9
+  },
+  {
+    "Label": "Kreon Finnancial",
+    "Value": "Kreon_Finnancial",
+    "Index": 246,
+    "real": 15.27
+  },
+  {
+    "Label": "Krishna Institu.",
+    "Value": "Krishna_Institu.",
+    "Index": 247,
+    "real": 1212
+  },
+  {
+    "Label": "Kriti Industries",
+    "Value": "Kriti_Industries",
+    "Index": 248,
+    "real": 137.2
+  },
+  {
+    "Label": "Kwality Pharma",
+    "Value": "Kwality_Pharma",
+    "Index": 249,
+    "real": 878.9
+  },
+  {
+    "Label": "L G Balakrishnan",
+    "Value": "L_G_Balakrishnan",
+    "Index": 250,
+    "real": 452.85
+  },
+  {
+    "Label": "L T Foods",
+    "Value": "L_T_Foods",
+    "Index": 251,
+    "real": 71.85
+  },
+  {
+    "Label": "La Tim Metal & I",
+    "Value": "La_Tim_Metal_&_I",
+    "Index": 252,
+    "real": 90.05
+  },
+  {
+    "Label": "Ladderup Finance",
+    "Value": "Ladderup_Finance",
+    "Index": 253,
+    "real": 23.7
+  },
+  {
+    "Label": "Lagnam Spintex",
+    "Value": "Lagnam_Spintex",
+    "Index": 254,
+    "real": 47.3
+  },
+  {
+    "Label": "Lak. Mach. Works",
+    "Value": "Lak._Mach._Works",
+    "Index": 255,
+    "real": 8111.85
+  },
+  {
+    "Label": "Lakshmi Mills",
+    "Value": "Lakshmi_Mills",
+    "Index": 256,
+    "real": 3127.7
+  },
+  {
+    "Label": "Lasa Supergeneri",
+    "Value": "Lasa_Supergeneri",
+    "Index": 257,
+    "real": 76.35
+  },
+  {
+    "Label": "Ledo Tea",
+    "Value": "Ledo_Tea",
+    "Index": 258,
+    "real": 27.9
+  },
+  {
+    "Label": "LGB Forge",
+    "Value": "LGB_Forge",
+    "Index": 259,
+    "real": 6.7
+  },
+  {
+    "Label": "Lincoln Pharma.",
+    "Value": "Lincoln_Pharma.",
+    "Index": 260,
+    "real": 393.25
+  },
+  {
+    "Label": "Linde India",
+    "Value": "Linde_India",
+    "Index": 261,
+    "real": 2627.95
+  },
+  {
+    "Label": "Lokesh Mach.",
+    "Value": "Lokesh_Mach.",
+    "Index": 262,
+    "real": 51.5
+  },
+  {
+    "Label": "Lotus Eye Hospit",
+    "Value": "Lotus_Eye_Hospit",
+    "Index": 263,
+    "real": 48.1
+  },
+  {
+    "Label": "Loyal Textile",
+    "Value": "Loyal_Textile",
+    "Index": 264,
+    "real": 706.45
+  },
+  {
+    "Label": "M&M",
+    "Value": "M&M",
+    "Index": 265,
+    "real": 827.85
+  },
+  {
+    "Label": "Mac Charles(I)",
+    "Value": "Mac_Charles(I)",
+    "Index": 266,
+    "real": 575
+  },
+  {
+    "Label": "Madras Fertilize",
+    "Value": "Madras_Fertilize",
+    "Index": 267,
+    "real": 30.5
+  },
+  {
+    "Label": "Maha Rashtra Apx",
+    "Value": "Maha_Rashtra_Apx",
+    "Index": 268,
+    "real": 87.2
+  },
+  {
+    "Label": "Mahalaxmi Seam.",
+    "Value": "Mahalaxmi_Seam.",
+    "Index": 269,
+    "real": 8.2
+  },
+  {
+    "Label": "Manaksia Steels",
+    "Value": "Manaksia_Steels",
+    "Index": 270,
+    "real": 31.85
+  },
+  {
+    "Label": "Manali Petrochem",
+    "Value": "Manali_Petrochem",
+    "Index": 271,
+    "real": 125.8
+  },
+  {
+    "Label": "Mangalam Cement",
+    "Value": "Mangalam_Cement",
+    "Index": 272,
+    "real": 450.5
+  },
+  {
+    "Label": "MANGALAM SEEDS",
+    "Value": "MANGALAM_SEEDS",
+    "Index": 273,
+    "real": 88.85
+  },
+  {
+    "Label": "Maral Overseas",
+    "Value": "Maral_Overseas",
+    "Index": 274,
+    "real": 80.2
+  },
+  {
+    "Label": "Marksans Pharma",
+    "Value": "Marksans_Pharma",
+    "Index": 275,
+    "real": 68.9
+  },
+  {
+    "Label": "Master Trust",
+    "Value": "Master_Trust",
+    "Index": 276,
+    "real": 91.65
+  },
+  {
+    "Label": "Matrimony.com",
+    "Value": "Matrimony.com",
+    "Index": 277,
+    "real": 978.05
+  },
+  {
+    "Label": "Max Ventures",
+    "Value": "Max_Ventures",
+    "Index": 278,
+    "real": 116.35
+  },
+  {
+    "Label": "MBL Infrast",
+    "Value": "MBL_Infrast",
+    "Index": 279,
+    "real": 18.85
+  },
+  {
+    "Label": "Medi Caps",
+    "Value": "Medi_Caps",
+    "Index": 280,
+    "real": 41.9
+  },
+  {
+    "Label": "Medico Remedies",
+    "Value": "Medico_Remedies",
+    "Index": 281,
+    "real": 269.85
+  },
+  {
+    "Label": "Medinova Diagno.",
+    "Value": "Medinova_Diagno.",
+    "Index": 282,
+    "real": 49.25
+  },
+  {
+    "Label": "Meera Industries",
+    "Value": "Meera_Industries",
+    "Index": 283,
+    "real": 85.1
+  },
+  {
+    "Label": "Mehai Technology",
+    "Value": "Mehai_Technology",
+    "Index": 284,
+    "real": 41.9
+  },
+  {
+    "Label": "MEP Infrast.",
+    "Value": "MEP_Infrast.",
+    "Index": 285,
+    "real": 20.65
+  },
+  {
+    "Label": "Mercury Labs",
+    "Value": "Mercury_Labs",
+    "Index": 286,
+    "real": 698.95
+  },
+  {
+    "Label": "Mindteck (India)",
+    "Value": "Mindteck_(India)",
+    "Index": 287,
+    "real": 90.2
+  },
+  {
+    "Label": "Mitsu Chem Plast",
+    "Value": "Mitsu_Chem_Plast",
+    "Index": 288,
+    "real": 286.8
+  },
+  {
+    "Label": "Mohit Industries",
+    "Value": "Mohit_Industries",
+    "Index": 289,
+    "real": 12.8
+  },
+  {
+    "Label": "Moongipa Capital",
+    "Value": "Moongipa_Capital",
+    "Index": 290,
+    "real": 10.8
+  },
+  {
+    "Label": "Morepen Labs.",
+    "Value": "Morepen_Labs.",
+    "Index": 291,
+    "real": 56.1
+  },
+  {
+    "Label": "Motil.Oswal.Fin.",
+    "Value": "Motil.Oswal.Fin.",
+    "Index": 292,
+    "real": 872.25
+  },
+  {
+    "Label": "Mrs Bectors",
+    "Value": "Mrs_Bectors",
+    "Index": 293,
+    "real": 410.05
+  },
+  {
+    "Label": "MSP Steel & Pow.",
+    "Value": "MSP_Steel_&_Pow.",
+    "Index": 294,
+    "real": 9.75
+  },
+  {
+    "Label": "Mudunuru",
+    "Value": "Mudunuru",
+    "Index": 295,
+    "real": 6.81
+  },
+  {
+    "Label": "Mukesh Babu Fin.",
+    "Value": "Mukesh_Babu_Fin.",
+    "Index": 296,
+    "real": 130.15
+  },
+  {
+    "Label": "Muller & Phipps",
+    "Value": "Muller_&_Phipps",
+    "Index": 297,
+    "real": 118
+  },
+  {
+    "Label": "Munjal Auto Inds",
+    "Value": "Munjal_Auto_Inds",
+    "Index": 298,
+    "real": 58.65
+  },
+  {
+    "Label": "Natl. Aluminium",
+    "Value": "Natl._Aluminium",
+    "Index": 299,
+    "real": 95.5
+  },
+  {
+    "Label": "Natl. Peroxide",
+    "Value": "Natl._Peroxide",
+    "Index": 300,
+    "real": 2261.5
+  },
+  {
+    "Label": "Nazara Technolo.",
+    "Value": "Nazara_Technolo.",
+    "Index": 301,
+    "real": 2327
+  },
+  {
+    "Label": "NBCC",
+    "Value": "NBCC",
+    "Index": 302,
+    "real": 48.2
+  },
+  {
+    "Label": "NCL Industries",
+    "Value": "NCL_Industries",
+    "Index": 303,
+    "real": 233.6
+  },
+  {
+    "Label": "NDA Securities",
+    "Value": "NDA_Securities",
+    "Index": 304,
+    "real": 40.4
+  },
+  {
+    "Label": "Nestle India",
+    "Value": "Nestle_India",
+    "Index": 305,
+    "real": 19549.95
+  },
+  {
+    "Label": "Neuland Labs.",
+    "Value": "Neuland_Labs.",
+    "Index": 306,
+    "real": 1523.9
+  },
+  {
+    "Label": "NGL Fine Chem",
+    "Value": "NGL_Fine_Chem",
+    "Index": 307,
+    "real": 2777.2
+  },
+  {
+    "Label": "Nirlon",
+    "Value": "Nirlon",
+    "Index": 308,
+    "real": 367.85
+  },
+  {
+    "Label": "Nitin Spinners",
+    "Value": "Nitin_Spinners",
+    "Index": 309,
+    "real": 212.05
+  },
+  {
+    "Label": "Nitta Gelatin",
+    "Value": "Nitta_Gelatin",
+    "Index": 310,
+    "real": 236.05
+  },
+  {
+    "Label": "Norben Tea",
+    "Value": "Norben_Tea",
+    "Index": 311,
+    "real": 6.8
+  },
+  {
+    "Label": "NRB Indl Bearing",
+    "Value": "NRB_Indl_Bearing",
+    "Index": 312,
+    "real": 18.6
+  },
+  {
+    "Label": "Nucleus Soft.",
+    "Value": "Nucleus_Soft.",
+    "Index": 313,
+    "real": 581.65
+  },
+  {
+    "Label": "Objectone Inform",
+    "Value": "Objectone_Inform",
+    "Index": 314,
+    "real": 6.6
+  },
+  {
+    "Label": "ONGC",
+    "Value": "ONGC",
+    "Index": 315,
+    "real": 146.25
+  },
+  {
+    "Label": "Oracle Fin.Serv.",
+    "Value": "Oracle_Fin.Serv.",
+    "Index": 316,
+    "real": 4512.25
+  },
+  {
+    "Label": "Orient Electric",
+    "Value": "Orient_Electric",
+    "Index": 317,
+    "real": 330.7
+  },
+  {
+    "Label": "OTCO Intl",
+    "Value": "OTCO_Intl",
+    "Index": 318,
+    "real": 5.98
+  },
+  {
+    "Label": "P & G Hygiene",
+    "Value": "P_&_G_Hygiene",
+    "Index": 319,
+    "real": 14048.3
+  },
+  {
+    "Label": "Pacific Inds",
+    "Value": "Pacific_Inds",
+    "Index": 320,
+    "real": 496.25
+  },
+  {
+    "Label": "Panache Digilife",
+    "Value": "Panache_Digilife",
+    "Index": 321,
+    "real": 56.1
+  },
+  {
+    "Label": "Panama Petrochem",
+    "Value": "Panama_Petrochem",
+    "Index": 322,
+    "real": 268.2
+  },
+  {
+    "Label": "Panasonic Energy",
+    "Value": "Panasonic_Energy",
+    "Index": 323,
+    "real": 295.2
+  },
+  {
+    "Label": "Panchmahal Steel",
+    "Value": "Panchmahal_Steel",
+    "Index": 324,
+    "real": 87
+  },
+  {
+    "Label": "Pankaj Piyush",
+    "Value": "Pankaj_Piyush",
+    "Index": 325,
+    "real": 46.2
+  },
+  {
+    "Label": "Parmax Pharma",
+    "Value": "Parmax_Pharma",
+    "Index": 326,
+    "real": 40.25
+  },
+  {
+    "Label": "Peria Kara. Tea",
+    "Value": "Peria_Kara._Tea",
+    "Index": 327,
+    "real": 321.7
+  },
+  {
+    "Label": "Persistent Sys",
+    "Value": "Persistent_Sys",
+    "Index": 328,
+    "real": 3643.25
+  },
+  {
+    "Label": "Pharmaids Pharma",
+    "Value": "Pharmaids_Pharma",
+    "Index": 329,
+    "real": 14.48
+  },
+  {
+    "Label": "Piramal Enterp.",
+    "Value": "Piramal_Enterp.",
+    "Index": 330,
+    "real": 2655.4
+  },
+  {
+    "Label": "Pix Transmission",
+    "Value": "Pix_Transmission",
+    "Index": 331,
+    "real": 821.95
+  },
+  {
+    "Label": "PNB Gilts",
+    "Value": "PNB_Gilts",
+    "Index": 332,
+    "real": 66.6
+  },
+  {
+    "Label": "Poddar Pigments",
+    "Value": "Poddar_Pigments",
+    "Index": 333,
+    "real": 347.9
+  },
+  {
+    "Label": "Polo Queen Ind.",
+    "Value": "Polo_Queen_Ind.",
+    "Index": 334,
+    "real": 10.65
+  },
+  {
+    "Label": "Polyplex Corpn",
+    "Value": "Polyplex_Corpn",
+    "Index": 335,
+    "real": 1768.1
+  },
+  {
+    "Label": "Power Grid Corpn",
+    "Value": "Power_Grid_Corpn",
+    "Index": 336,
+    "real": 191.85
+  },
+  {
+    "Label": "Premco Global",
+    "Value": "Premco_Global",
+    "Index": 337,
+    "real": 514.4
+  },
+  {
+    "Label": "Premier Polyfilm",
+    "Value": "Premier_Polyfilm",
+    "Index": 338,
+    "real": 68.05
+  },
+  {
+    "Label": "Pressman Adv.",
+    "Value": "Pressman_Adv.",
+    "Index": 339,
+    "real": 27.1
+  },
+  {
+    "Label": "Pricol Ltd",
+    "Value": "Pricol_Ltd",
+    "Index": 340,
+    "real": 102.8
+  },
+  {
+    "Label": "Prima Agro",
+    "Value": "Prima_Agro",
+    "Index": 341,
+    "real": 40
+  },
+  {
+    "Label": "Prince Pipes",
+    "Value": "Prince_Pipes",
+    "Index": 342,
+    "real": 691.35
+  },
+  {
+    "Label": "Prism Finance",
+    "Value": "Prism_Finance",
+    "Index": 343,
+    "real": 20.65
+  },
+  {
+    "Label": "Punjab Chemicals",
+    "Value": "Punjab_Chemicals",
+    "Index": 344,
+    "real": 1589.25
+  },
+  {
+    "Label": "R Systems Intl.",
+    "Value": "R_Systems_Intl.",
+    "Index": 345,
+    "real": 222.25
+  },
+  {
+    "Label": "Raj Oil Mills",
+    "Value": "Raj_Oil_Mills",
+    "Index": 346,
+    "real": 91.6
+  },
+  {
+    "Label": "Raj Packaging",
+    "Value": "Raj_Packaging",
+    "Index": 347,
+    "real": 34.95
+  },
+  {
+    "Label": "Raj Television",
+    "Value": "Raj_Television",
+    "Index": 348,
+    "real": 35.55
+  },
+  {
+    "Label": "Rajas. Tube Mfg",
+    "Value": "Rajas._Tube_Mfg",
+    "Index": 349,
+    "real": 15.01
+  },
+  {
+    "Label": "Rajoo Engineers",
+    "Value": "Rajoo_Engineers",
+    "Index": 350,
+    "real": 25.25
+  },
+  {
+    "Label": "Rajratan Global",
+    "Value": "Rajratan_Global",
+    "Index": 351,
+    "real": 2011.95
+  },
+  {
+    "Label": "Rallis India",
+    "Value": "Rallis_India",
+    "Index": 352,
+    "real": 284.8
+  },
+  {
+    "Label": "Rama Steel Tubes",
+    "Value": "Rama_Steel_Tubes",
+    "Index": 353,
+    "real": 245.05
+  },
+  {
+    "Label": "Ramco Systems",
+    "Value": "Ramco_Systems",
+    "Index": 354,
+    "real": 482.7
+  },
+  {
+    "Label": "Ramgopal Polytex",
+    "Value": "Ramgopal_Polytex",
+    "Index": 355,
+    "real": 15.22
+  },
+  {
+    "Label": "Ramky Infra",
+    "Value": "Ramky_Infra",
+    "Index": 356,
+    "real": 140.8
+  },
+  {
+    "Label": "Rana Sugars",
+    "Value": "Rana_Sugars",
+    "Index": 357,
+    "real": 24.65
+  },
+  {
+    "Label": "Rane Brake Lin.",
+    "Value": "Rane_Brake_Lin.",
+    "Index": 358,
+    "real": 870.55
+  },
+  {
+    "Label": "Reliance Power",
+    "Value": "Reliance_Power",
+    "Index": 359,
+    "real": 13.6
+  },
+  {
+    "Label": "Resonance Speci.",
+    "Value": "Resonance_Speci.",
+    "Index": 360,
+    "real": 237.65
+  },
+  {
+    "Label": "Rexnord Electr.",
+    "Value": "Rexnord_Electr.",
+    "Index": 361,
+    "real": 50.7
+  },
+  {
+    "Label": "Ritesh Propertie",
+    "Value": "Ritesh_Propertie",
+    "Index": 362,
+    "real": 221.6
+  },
+  {
+    "Label": "Rossell India",
+    "Value": "Rossell_India",
+    "Index": 363,
+    "real": 155.5
+  },
+  {
+    "Label": "Roto Pumps",
+    "Value": "Roto_Pumps",
+    "Index": 364,
+    "real": 332.8
+  },
+  {
+    "Label": "Route Mobile",
+    "Value": "Route_Mobile",
+    "Index": 365,
+    "real": 2042.15
+  },
+  {
+    "Label": "RPG LifeScience.",
+    "Value": "RPG_LifeScience.",
+    "Index": 366,
+    "real": 680.15
+  },
+  {
+    "Label": "Rupa & Co",
+    "Value": "Rupa_&_Co",
+    "Index": 367,
+    "real": 445.8
+  },
+  {
+    "Label": "S Chand & Compan",
+    "Value": "S_Chand_&_Compan",
+    "Index": 368,
+    "real": 111.95
+  },
+  {
+    "Label": "S V Global Mill",
+    "Value": "S_V_Global_Mill",
+    "Index": 369,
+    "real": 87.6
+  },
+  {
+    "Label": "SagarSoft (India",
+    "Value": "SagarSoft_(India",
+    "Index": 370,
+    "real": 185.95
+  },
+  {
+    "Label": "Sahara Housing",
+    "Value": "Sahara_Housing",
+    "Index": 371,
+    "real": 48.7
+  },
+  {
+    "Label": "SAIL",
+    "Value": "SAIL",
+    "Index": 372,
+    "real": 114.8
+  },
+  {
+    "Label": "Sam Industries",
+    "Value": "Sam_Industries",
+    "Index": 373,
+    "real": 23.85
+  },
+  {
+    "Label": "Sanco Trans",
+    "Value": "Sanco_Trans",
+    "Index": 374,
+    "real": 491.2
+  },
+  {
+    "Label": "Sandu Pharma.",
+    "Value": "Sandu_Pharma.",
+    "Index": 375,
+    "real": 49.25
+  },
+  {
+    "Label": "Sanghi Industrie",
+    "Value": "Sanghi_Industrie",
+    "Index": 376,
+    "real": 66.45
+  },
+  {
+    "Label": "Sanofi India",
+    "Value": "Sanofi_India",
+    "Index": 377,
+    "real": 7874.7
+  },
+  {
+    "Label": "Sanrhea Tech.",
+    "Value": "Sanrhea_Tech.",
+    "Index": 378,
+    "real": 94.15
+  },
+  {
+    "Label": "Sarthak Industri",
+    "Value": "Sarthak_Industri",
+    "Index": 379,
+    "real": 105.55
+  },
+  {
+    "Label": "Sasken Technol.",
+    "Value": "Sasken_Technol.",
+    "Index": 380,
+    "real": 1346.6
+  },
+  {
+    "Label": "Sat Industries",
+    "Value": "Sat_Industries",
+    "Index": 381,
+    "real": 34.85
+  },
+  {
+    "Label": "Sayaji Industr",
+    "Value": "Sayaji_Industr",
+    "Index": 382,
+    "real": 225.5
+  },
+  {
+    "Label": "SBI",
+    "Value": "SBI",
+    "Index": 383,
+    "real": 451.65
+  },
+  {
+    "Label": "Scan Steels",
+    "Value": "Scan_Steels",
+    "Index": 384,
+    "real": 44.85
+  },
+  {
+    "Label": "Scandent Imaging",
+    "Value": "Scandent_Imaging",
+    "Index": 385,
+    "real": 22.2
+  },
+  {
+    "Label": "SCI",
+    "Value": "SCI",
+    "Index": 386,
+    "real": 125.1
+  },
+  {
+    "Label": "Sequent Scien.",
+    "Value": "Sequent_Scien.",
+    "Index": 387,
+    "real": 213.95
+  },
+  {
+    "Label": "Sh. Ajit Pulp",
+    "Value": "Sh._Ajit_Pulp",
+    "Index": 388,
+    "real": 328.6
+  },
+  {
+    "Label": "Sh. Dinesh Mills",
+    "Value": "Sh._Dinesh_Mills",
+    "Index": 389,
+    "real": 641.4
+  },
+  {
+    "Label": "Sh. Jagdamba Pol",
+    "Value": "Sh._Jagdamba_Pol",
+    "Index": 390,
+    "real": 1181.5
+  },
+  {
+    "Label": "Sh. Krish. Infr.",
+    "Value": "Sh._Krish._Infr.",
+    "Index": 391,
+    "real": 7
+  },
+  {
+    "Label": "Shakti Pumps",
+    "Value": "Shakti_Pumps",
+    "Index": 392,
+    "real": 702.95
+  },
+  {
+    "Label": "Shalby",
+    "Value": "Shalby",
+    "Index": 393,
+    "real": 174.35
+  },
+  {
+    "Label": "Shankar Lal Ram.",
+    "Value": "Shankar_Lal_Ram.",
+    "Index": 394,
+    "real": 91.3
+  },
+  {
+    "Label": "Sharika Enterpr.",
+    "Value": "Sharika_Enterpr.",
+    "Index": 395,
+    "real": 9.22
+  },
+  {
+    "Label": "Shilchar Tech.",
+    "Value": "Shilchar_Tech.",
+    "Index": 396,
+    "real": 216
+  },
+  {
+    "Label": "Shilp Gravures",
+    "Value": "Shilp_Gravures",
+    "Index": 397,
+    "real": 115.25
+  },
+  {
+    "Label": "Shiva Global",
+    "Value": "Shiva_Global",
+    "Index": 398,
+    "real": 61.85
+  },
+  {
+    "Label": "Shiva Texyarn",
+    "Value": "Shiva_Texyarn",
+    "Index": 399,
+    "real": 193.6
+  },
+  {
+    "Label": "Shivalik Bimetal",
+    "Value": "Shivalik_Bimetal",
+    "Index": 400,
+    "real": 273.75
+  },
+  {
+    "Label": "Shree Cement",
+    "Value": "Shree_Cement",
+    "Index": 401,
+    "real": 29099.55
+  },
+  {
+    "Label": "Shreyas Shipping",
+    "Value": "Shreyas_Shipping",
+    "Index": 402,
+    "real": 383.15
+  },
+  {
+    "Label": "SHRI NIWAS L& F.",
+    "Value": "SHRI_NIWAS_L&_F.",
+    "Index": 403,
+    "real": 7.38
+  },
+  {
+    "Label": "Shriram Pistons",
+    "Value": "Shriram_Pistons",
+    "Index": 404,
+    "real": 936.9
+  },
+  {
+    "Label": "Shyam Century",
+    "Value": "Shyam_Century",
+    "Index": 405,
+    "real": 13.95
+  },
+  {
+    "Label": "Shyam Metalics",
+    "Value": "Shyam_Metalics",
+    "Index": 406,
+    "real": 372.7
+  },
+  {
+    "Label": "Sika Interplant",
+    "Value": "Sika_Interplant",
+    "Index": 407,
+    "real": 714.75
+  },
+  {
+    "Label": "Simran Farms",
+    "Value": "Simran_Farms",
+    "Index": 408,
+    "real": 108.4
+  },
+  {
+    "Label": "Singer India",
+    "Value": "Singer_India",
+    "Index": 409,
+    "real": 61.7
+  },
+  {
+    "Label": "Skyline Millars",
+    "Value": "Skyline_Millars",
+    "Index": 410,
+    "real": 9.97
+  },
+  {
+    "Label": "Smartlink Hold.",
+    "Value": "Smartlink_Hold.",
+    "Index": 411,
+    "real": 118.75
+  },
+  {
+    "Label": "SMIFS Cap. Mkt.",
+    "Value": "SMIFS_Cap._Mkt.",
+    "Index": 412,
+    "real": 40.5
+  },
+  {
+    "Label": "SNL Bearings",
+    "Value": "SNL_Bearings",
+    "Index": 413,
+    "real": 238.55
+  },
+  {
+    "Label": "Snowman Logistic",
+    "Value": "Snowman_Logistic",
+    "Index": 414,
+    "real": 43.15
+  },
+  {
+    "Label": "Softsol India",
+    "Value": "Softsol_India",
+    "Index": 415,
+    "real": 147.45
+  },
+  {
+    "Label": "Solitaire Mach.",
+    "Value": "Solitaire_Mach.",
+    "Index": 416,
+    "real": 33.95
+  },
+  {
+    "Label": "Somany Ceramics",
+    "Value": "Somany_Ceramics",
+    "Index": 417,
+    "real": 782.45
+  },
+  {
+    "Label": "Somany Home Inn.",
+    "Value": "Somany_Home_Inn.",
+    "Index": 418,
+    "real": 427.45
+  },
+  {
+    "Label": "SORIL Infra",
+    "Value": "SORIL_Infra",
+    "Index": 419,
+    "real": 107.85
+  },
+  {
+    "Label": "South West Pinn.",
+    "Value": "South_West_Pinn.",
+    "Index": 420,
+    "real": 104.1
+  },
+  {
+    "Label": "Spaceage Product",
+    "Value": "Spaceage_Product",
+    "Index": 421,
+    "real": 72
+  },
+  {
+    "Label": "Sportking India",
+    "Value": "Sportking_India",
+    "Index": 422,
+    "real": 1685.6
+  },
+  {
+    "Label": "Standard Inds.",
+    "Value": "Standard_Inds.",
+    "Index": 423,
+    "real": 14.85
+  },
+  {
+    "Label": "Steel City Sec.",
+    "Value": "Steel_City_Sec.",
+    "Index": 424,
+    "real": 58.25
+  },
+  {
+    "Label": "STL Global",
+    "Value": "STL_Global",
+    "Index": 425,
+    "real": 12.45
+  },
+  {
+    "Label": "Stove Kraft",
+    "Value": "Stove_Kraft",
+    "Index": 426,
+    "real": 1068.15
+  },
+  {
+    "Label": "Stylam Industrie",
+    "Value": "Stylam_Industrie",
+    "Index": 427,
+    "real": 1114.6
+  },
+  {
+    "Label": "Sumitomo Chemi.",
+    "Value": "Sumitomo_Chemi.",
+    "Index": 428,
+    "real": 397.6
+  },
+  {
+    "Label": "Sumuka Agro",
+    "Value": "Sumuka_Agro",
+    "Index": 429,
+    "real": 17.35
+  },
+  {
+    "Label": "Sun Pharma.Inds.",
+    "Value": "Sun_Pharma.Inds.",
+    "Index": 430,
+    "real": 826.6
+  },
+  {
+    "Label": "Sun TV Network",
+    "Value": "Sun_TV_Network",
+    "Index": 431,
+    "real": 520.95
+  },
+  {
+    "Label": "Sunflag Iron",
+    "Value": "Sunflag_Iron",
+    "Index": 432,
+    "real": 82
+  },
+  {
+    "Label": "Sunil Agro Foods",
+    "Value": "Sunil_Agro_Foods",
+    "Index": 433,
+    "real": 81.5
+  },
+  {
+    "Label": "Sunshield Chem.",
+    "Value": "Sunshield_Chem.",
+    "Index": 434,
+    "real": 359.55
+  },
+  {
+    "Label": "Super Sales Ind.",
+    "Value": "Super_Sales_Ind.",
+    "Index": 435,
+    "real": 632.2
+  },
+  {
+    "Label": "Suprajit Engg.",
+    "Value": "Suprajit_Engg.",
+    "Index": 436,
+    "real": 323.95
+  },
+  {
+    "Label": "Supreme Inds.",
+    "Value": "Supreme_Inds.",
+    "Index": 437,
+    "real": 2321.6
+  },
+  {
+    "Label": "Supreme Petroch.",
+    "Value": "Supreme_Petroch.",
+    "Index": 438,
+    "real": 718.15
+  },
+  {
+    "Label": "Suraj Products",
+    "Value": "Suraj_Products",
+    "Index": 439,
+    "real": 67.9
+  },
+  {
+    "Label": "Surana Telecom",
+    "Value": "Surana_Telecom",
+    "Index": 440,
+    "real": 8.75
+  },
+  {
+    "Label": "Surani Steel Tub",
+    "Value": "Surani_Steel_Tub",
+    "Index": 441,
+    "real": 42
+  },
+  {
+    "Label": "Surya Roshni",
+    "Value": "Surya_Roshni",
+    "Index": 442,
+    "real": 828.35
+  },
+  {
+    "Label": "Suryavanshi Spg.",
+    "Value": "Suryavanshi_Spg.",
+    "Index": 443,
+    "real": 13.01
+  },
+  {
+    "Label": "Swastika Investm",
+    "Value": "Swastika_Investm",
+    "Index": 444,
+    "real": 131.5
+  },
+  {
+    "Label": "T R I L",
+    "Value": "T_R_I_L",
+    "Index": 445,
+    "real": 26.95
+  },
+  {
+    "Label": "TAAL Enterprises",
+    "Value": "TAAL_Enterprises",
+    "Index": 446,
+    "real": 938.05
+  },
+  {
+    "Label": "Talbros Auto.",
+    "Value": "Talbros_Auto.",
+    "Index": 447,
+    "real": 282.05
+  },
+  {
+    "Label": "Talbros Engg.",
+    "Value": "Talbros_Engg.",
+    "Index": 448,
+    "real": 239.55
+  },
+  {
+    "Label": "Tamboli Capital",
+    "Value": "Tamboli_Capital",
+    "Index": 449,
+    "real": 55.45
+  },
+  {
+    "Label": "Taneja Aerospace",
+    "Value": "Taneja_Aerospace",
+    "Index": 450,
+    "real": 64.9
+  },
+  {
+    "Label": "Tanla Platforms",
+    "Value": "Tanla_Platforms",
+    "Index": 451,
+    "real": 915.95
+  },
+  {
+    "Label": "Tata Coffee",
+    "Value": "Tata_Coffee",
+    "Index": 452,
+    "real": 201.4
+  },
+  {
+    "Label": "Tata Comm",
+    "Value": "Tata_Comm",
+    "Index": 453,
+    "real": 1410.65
+  },
+  {
+    "Label": "Tata Steel BSL",
+    "Value": "Tata_Steel_BSL",
+    "Index": 454,
+    "real": 85.05
+  },
+  {
+    "Label": "Tata Steel Long",
+    "Value": "Tata_Steel_Long",
+    "Index": 455,
+    "real": 921.95
+  },
+  {
+    "Label": "TBZ",
+    "Value": "TBZ",
+    "Index": 456,
+    "real": 80.05
+  },
+  {
+    "Label": "Team Lease Serv.",
+    "Value": "Team_Lease_Serv.",
+    "Index": 457,
+    "real": 4567.7
+  },
+  {
+    "Label": "Technvision Ven.",
+    "Value": "Technvision_Ven.",
+    "Index": 458,
+    "real": 201.9
+  },
+  {
+    "Label": "Thakkers Develp.",
+    "Value": "Thakkers_Develp.",
+    "Index": 459,
+    "real": 73.45
+  },
+  {
+    "Label": "Thermax",
+    "Value": "Thermax",
+    "Index": 460,
+    "real": 1342.25
+  },
+  {
+    "Label": "Thirumalai Chem.",
+    "Value": "Thirumalai_Chem.",
+    "Index": 461,
+    "real": 299.9
+  },
+  {
+    "Label": "Tinplate Co.",
+    "Value": "Tinplate_Co.",
+    "Index": 462,
+    "real": 291.85
+  },
+  {
+    "Label": "Titan Biotech",
+    "Value": "Titan_Biotech",
+    "Index": 463,
+    "real": 336.15
+  },
+  {
+    "Label": "Torrent Pharma.",
+    "Value": "Torrent_Pharma.",
+    "Index": 464,
+    "real": 3080.55
+  },
+  {
+    "Label": "Trigyn Techno.",
+    "Value": "Trigyn_Techno.",
+    "Index": 465,
+    "real": 113.15
+  },
+  {
+    "Label": "TT",
+    "Value": "TT",
+    "Index": 466,
+    "real": 63.85
+  },
+  {
+    "Label": "TTK Healthcare",
+    "Value": "TTK_Healthcare",
+    "Index": 467,
+    "real": 667.5
+  },
+  {
+    "Label": "TTK Prestige",
+    "Value": "TTK_Prestige",
+    "Index": 468,
+    "real": 8878.4
+  },
+  {
+    "Label": "TV18 Broadcast",
+    "Value": "TV18_Broadcast",
+    "Index": 469,
+    "real": 41.55
+  },
+  {
+    "Label": "Tyroon Tea Co.",
+    "Value": "Tyroon_Tea_Co.",
+    "Index": 470,
+    "real": 69.85
+  },
+  {
+    "Label": "Udaipur Cement",
+    "Value": "Udaipur_Cement",
+    "Index": 471,
+    "real": 39.25
+  },
+  {
+    "Label": "Uflex",
+    "Value": "Uflex",
+    "Index": 472,
+    "real": 535.6
+  },
+  {
+    "Label": "Umang Dairies",
+    "Value": "Umang_Dairies",
+    "Index": 473,
+    "real": 72.4
+  },
+  {
+    "Label": "Uni Abex Alloy",
+    "Value": "Uni_Abex_Alloy",
+    "Index": 474,
+    "real": 596.65
+  },
+  {
+    "Label": "Unichem Labs.",
+    "Value": "Unichem_Labs.",
+    "Index": 475,
+    "real": 275.3
+  },
+  {
+    "Label": "Universal Auto.",
+    "Value": "Universal_Auto.",
+    "Index": 476,
+    "real": 52.25
+  },
+  {
+    "Label": "Universal Starch",
+    "Value": "Universal_Starch",
+    "Index": 477,
+    "real": 102
+  },
+  {
+    "Label": "UPL",
+    "Value": "UPL",
+    "Index": 478,
+    "real": 712.65
+  },
+  {
+    "Label": "UTI AMC",
+    "Value": "UTI_AMC",
+    "Index": 479,
+    "real": 1050.2
+  },
+  {
+    "Label": "Uttam Sug.Mills",
+    "Value": "Uttam_Sug.Mills",
+    "Index": 480,
+    "real": 184.3
+  },
+  {
+    "Label": "Vadilal Enterp.",
+    "Value": "Vadilal_Enterp.",
+    "Index": 481,
+    "real": 1816
+  },
+  {
+    "Label": "Vaishali Pharma",
+    "Value": "Vaishali_Pharma",
+    "Index": 482,
+    "real": 37
+  },
+  {
+    "Label": "Valiant Commun.",
+    "Value": "Valiant_Commun.",
+    "Index": 483,
+    "real": 113.5
+  },
+  {
+    "Label": "Vapi Paper Mills",
+    "Value": "Vapi_Paper_Mills",
+    "Index": 484,
+    "real": 27.05
+  },
+  {
+    "Label": "Vedanta",
+    "Value": "Vedanta",
+    "Index": 485,
+    "real": 285.85
+  },
+  {
+    "Label": "Vibrant Glo. Cap",
+    "Value": "Vibrant_Glo._Cap",
+    "Index": 486,
+    "real": 68
+  },
+  {
+    "Label": "Vijaya Diagnost.",
+    "Value": "Vijaya_Diagnost.",
+    "Index": 487,
+    "real": 551.3
+  },
+  {
+    "Label": "Vimta Labs",
+    "Value": "Vimta_Labs",
+    "Index": 488,
+    "real": 278.3
+  },
+  {
+    "Label": "Vishwaraj Sugar",
+    "Value": "Vishwaraj_Sugar",
+    "Index": 489,
+    "real": 145.45
+  },
+  {
+    "Label": "Vistar Amar",
+    "Value": "Vistar_Amar",
+    "Index": 490,
+    "real": 68.4
+  },
+  {
+    "Label": "VLS Finance",
+    "Value": "VLS_Finance",
+    "Index": 491,
+    "real": 195.4
+  },
+  {
+    "Label": "VMS Industries",
+    "Value": "VMS_Industries",
+    "Index": 492,
+    "real": 12.95
+  },
+  {
+    "Label": "Voith Paper",
+    "Value": "Voith_Paper",
+    "Index": 493,
+    "real": 1310.35
+  },
+  {
+    "Label": "VST Till. Tract.",
+    "Value": "VST_Till._Tract.",
+    "Index": 494,
+    "real": 2962.5
+  },
+  {
+    "Label": "W H Brady",
+    "Value": "W_H_Brady",
+    "Index": 495,
+    "real": 163.15
+  },
+  {
+    "Label": "Waa Solar",
+    "Value": "Waa_Solar",
+    "Index": 496,
+    "real": 32.45
+  },
+  {
+    "Label": "Weizmann",
+    "Value": "Weizmann",
+    "Index": 497,
+    "real": 47.35
+  },
+  {
+    "Label": "Welspun India",
+    "Value": "Welspun_India",
+    "Index": 498,
+    "real": 163
+  },
+  {
+    "Label": "Windsor Machines",
+    "Value": "Windsor_Machines",
+    "Index": 499,
+    "real": 30.5
+  },
+  {
+    "Label": "WPIL",
+    "Value": "WPIL",
+    "Index": 500,
+    "real": 846.45
+  },
+  {
+    "Label": "Xchanging Sol.",
+    "Value": "Xchanging_Sol.",
+    "Index": 501,
+    "real": 108.2
+  },
+  {
+    "Label": "XPRO India",
+    "Value": "XPRO_India",
+    "Index": 502,
+    "real": 580.05
+  },
+  {
+    "Label": "Yasho Industries",
+    "Value": "Yasho_Industries",
+    "Index": 503,
+    "real": 906
+  },
+  {
+    "Label": "Zee Entertainmen",
+    "Value": "Zee_Entertainmen",
+    "Index": 504,
+    "real": 295.85
+  },
+  {
+    "Label": "Zee Media",
+    "Value": "Zee_Media",
+    "Index": 505,
+    "real": 14.55
+  },
+  {
+    "Label": "Zim Laboratories",
+    "Value": "Zim_Laboratories",
+    "Index": 506,
+    "real": 137.35
+  },
+  {
+    "Label": "Zuari Global",
+    "Value": "Zuari_Global",
+    "Index": 507,
+    "real": 130.9
+  },
+  {
+    "Label": "Zydus Wellness",
+    "Value": "Zydus_Wellness",
+    "Index": 508,
+    "real": 2320.95
+  }
+]
