@@ -1,0 +1,2038 @@
+[
+  {
+    "company": "A_B_M_Internatl.",
+    "cmp": 125.45
+  },
+  {
+    "company": "A_Infrastructure",
+    "cmp": 31.8
+  },
+  {
+    "company": "Aarti_Drugs",
+    "cmp": 604.5
+  },
+  {
+    "company": "Aarvi_Encon",
+    "cmp": 60.3
+  },
+  {
+    "company": "Abbott_India",
+    "cmp": 22031.25
+  },
+  {
+    "company": "Abhinav_Capital",
+    "cmp": 38.45
+  },
+  {
+    "company": "ABM_Knowledge",
+    "cmp": 113.6
+  },
+  {
+    "company": "ACC",
+    "cmp": 2237.5
+  },
+  {
+    "company": "Acknit_Indus.",
+    "cmp": 115.5
+  },
+  {
+    "company": "Action_Const.Eq.",
+    "cmp": 258.95
+  },
+  {
+    "company": "Adani_Power",
+    "cmp": 96.95
+  },
+  {
+    "company": "Ador_Fontech",
+    "cmp": 69.25
+  },
+  {
+    "company": "Ahluwalia_Contr.",
+    "cmp": 353.65
+  },
+  {
+    "company": "Ajanta_Pharma",
+    "cmp": 2260.4
+  },
+  {
+    "company": "Ajanta_Soya",
+    "cmp": 127.15
+  },
+  {
+    "company": "Ajcon_Global",
+    "cmp": 34.5
+  },
+  {
+    "company": "Akshar_Spintex",
+    "cmp": 30.85
+  },
+  {
+    "company": "Alkem_Lab",
+    "cmp": 3990.05
+  },
+  {
+    "company": "Alkyl_Amines",
+    "cmp": 3849.9
+  },
+  {
+    "company": "Amarjothi_Spg.",
+    "cmp": 157.95
+  },
+  {
+    "company": "Amba_Enterprises",
+    "cmp": 26.75
+  },
+  {
+    "company": "Ambar_Protein",
+    "cmp": 13.77
+  },
+  {
+    "company": "Ambika_Cotton",
+    "cmp": 1816.45
+  },
+  {
+    "company": "Amines_&_Plast.",
+    "cmp": 116.05
+  },
+  {
+    "company": "Amrutanjan_Healt",
+    "cmp": 821.3
+  },
+  {
+    "company": "Andhra_Petrochem",
+    "cmp": 141.4
+  },
+  {
+    "company": "Angel_Fibers",
+    "cmp": 25
+  },
+  {
+    "company": "Anjani_Portland",
+    "cmp": 391.75
+  },
+  {
+    "company": "Ansal_Buildwell",
+    "cmp": 68.9
+  },
+  {
+    "company": "Apar_Inds.",
+    "cmp": 639.95
+  },
+  {
+    "company": "APM_Finvest",
+    "cmp": 32.8
+  },
+  {
+    "company": "Apollo_Tricoat",
+    "cmp": 786.3
+  },
+  {
+    "company": "Apollo_Tyres",
+    "cmp": 224.25
+  },
+  {
+    "company": "Archit_Organosys",
+    "cmp": 49.25
+  },
+  {
+    "company": "Aries_Agro",
+    "cmp": 147
+  },
+  {
+    "company": "Arihant's_Secur.",
+    "cmp": 8
+  },
+  {
+    "company": "Arrow_Greentech",
+    "cmp": 119.7
+  },
+  {
+    "company": "Arunis_Abode",
+    "cmp": 29
+  },
+  {
+    "company": "Ashiana_Ispat",
+    "cmp": 14.5
+  },
+  {
+    "company": "Ashish_Polyplast",
+    "cmp": 11.69
+  },
+  {
+    "company": "Asian_Paints",
+    "cmp": 3177.85
+  },
+  {
+    "company": "Astral",
+    "cmp": 2199.8
+  },
+  {
+    "company": "Astrazeneca_Phar",
+    "cmp": 3097.85
+  },
+  {
+    "company": "Atishay",
+    "cmp": 31.5
+  },
+  {
+    "company": "Auro_Labs.",
+    "cmp": 120.8
+  },
+  {
+    "company": "Aurobindo_Pharma",
+    "cmp": 717.3
+  },
+  {
+    "company": "Ausom_Enter.",
+    "cmp": 66.3
+  },
+  {
+    "company": "Austin_Engg_Co",
+    "cmp": 54.7
+  },
+  {
+    "company": "Axtel_Industries",
+    "cmp": 320
+  },
+  {
+    "company": "B_&_A",
+    "cmp": 224.95
+  },
+  {
+    "company": "Balkrishna_Inds",
+    "cmp": 2541.4
+  },
+  {
+    "company": "Balrampur_Chini",
+    "cmp": 366.25
+  },
+  {
+    "company": "Bambino_Agro_Ind",
+    "cmp": 285.2
+  },
+  {
+    "company": "Banco_Products",
+    "cmp": 192.8
+  },
+  {
+    "company": "BASF_India",
+    "cmp": 3444.8
+  },
+  {
+    "company": "Bemco_Hydraulics",
+    "cmp": 295
+  },
+  {
+    "company": "Bengal_&_Assam",
+    "cmp": 2388.95
+  },
+  {
+    "company": "Bengal_Tea_&_Fab",
+    "cmp": 63.6
+  },
+  {
+    "company": "Beta_Drugs_Ltd",
+    "cmp": 455
+  },
+  {
+    "company": "Bhansali_Engg.",
+    "cmp": 187.8
+  },
+  {
+    "company": "Bhaskar_Agrochem",
+    "cmp": 42
+  },
+  {
+    "company": "Bihar_Sponge",
+    "cmp": 10.63
+  },
+  {
+    "company": "Birla_Corpn.",
+    "cmp": 1387.55
+  },
+  {
+    "company": "Birlasoft_Ltd",
+    "cmp": 397.25
+  },
+  {
+    "company": "BKV_Industries",
+    "cmp": 8.05
+  },
+  {
+    "company": "Black_Rose_Indus",
+    "cmp": 193.45
+  },
+  {
+    "company": "BLB",
+    "cmp": 9.65
+  },
+  {
+    "company": "Blue_Dart_Expres",
+    "cmp": 6419.7
+  },
+  {
+    "company": "Borosil_Renew.",
+    "cmp": 305.75
+  },
+  {
+    "company": "BPCL",
+    "cmp": 433.05
+  },
+  {
+    "company": "Butterfly_Gan_Ap",
+    "cmp": 954.55
+  },
+  {
+    "company": "Cadila_Health.",
+    "cmp": 555.7
+  },
+  {
+    "company": "Caplin_Point_Lab",
+    "cmp": 877.1
+  },
+  {
+    "company": "Caprihans_India",
+    "cmp": 138
+  },
+  {
+    "company": "CARE_Ratings",
+    "cmp": 671.55
+  },
+  {
+    "company": "Catvision_Ltd",
+    "cmp": 10.2
+  },
+  {
+    "company": "CCL_Internationa",
+    "cmp": 14.67
+  },
+  {
+    "company": "CDSL",
+    "cmp": 1289.8
+  },
+  {
+    "company": "Cenlub_Industrie",
+    "cmp": 70.55
+  },
+  {
+    "company": "CESC",
+    "cmp": 91.4
+  },
+  {
+    "company": "CG-VAK_Software",
+    "cmp": 144.05
+  },
+  {
+    "company": "Chambal_Fert.",
+    "cmp": 339.85
+  },
+  {
+    "company": "Chembond_Chem.",
+    "cmp": 223
+  },
+  {
+    "company": "Cil_Securities",
+    "cmp": 18.1
+  },
+  {
+    "company": "Commercial_Eng.",
+    "cmp": 33.4
+  },
+  {
+    "company": "Competent_Auto",
+    "cmp": 203.05
+  },
+  {
+    "company": "Cont._Petroleums",
+    "cmp": 53.75
+  },
+  {
+    "company": "Coral_Labs.",
+    "cmp": 401.3
+  },
+  {
+    "company": "Cosmo_Films",
+    "cmp": 1471.05
+  },
+  {
+    "company": "CPCL",
+    "cmp": 123.7
+  },
+  {
+    "company": "Cyber_Media_Ind",
+    "cmp": 10.2
+  },
+  {
+    "company": "Dalmia_Bharat",
+    "cmp": 444.3
+  },
+  {
+    "company": "Datamatics_Glob.",
+    "cmp": 300.85
+  },
+  {
+    "company": "Daulat_Securitie",
+    "cmp": 23.6
+  },
+  {
+    "company": "DCW",
+    "cmp": 48.95
+  },
+  {
+    "company": "Deccan_Cements",
+    "cmp": 726.3
+  },
+  {
+    "company": "Deepak_Fertiliz.",
+    "cmp": 415.65
+  },
+  {
+    "company": "Deepak_Nitrite",
+    "cmp": 2382.45
+  },
+  {
+    "company": "Deepak_Spinners",
+    "cmp": 268.15
+  },
+  {
+    "company": "Den_Networks",
+    "cmp": 48.45
+  },
+  {
+    "company": "DFM_Foods",
+    "cmp": 349.6
+  },
+  {
+    "company": "Dhampur_Sugar",
+    "cmp": 303.75
+  },
+  {
+    "company": "Dhanalaxmi_Roto",
+    "cmp": 90.3
+  },
+  {
+    "company": "Dhoot_Indl.Fin",
+    "cmp": 125.1
+  },
+  {
+    "company": "Dhunseri_Tea",
+    "cmp": 260.7
+  },
+  {
+    "company": "Diana_Tea_Co",
+    "cmp": 26.05
+  },
+  {
+    "company": "DLF",
+    "cmp": 417.2
+  },
+  {
+    "company": "Dolat_Investment",
+    "cmp": 90.35
+  },
+  {
+    "company": "Dr_Lal_Pathlabs",
+    "cmp": 3707.05
+  },
+  {
+    "company": "Dr_Lalchand._Lab",
+    "cmp": 25.8
+  },
+  {
+    "company": "Dutron_Polymers",
+    "cmp": 224.75
+  },
+  {
+    "company": "Dwarikesh_Sugar",
+    "cmp": 72.15
+  },
+  {
+    "company": "E.Com_Infotech",
+    "cmp": 10.55
+  },
+  {
+    "company": "eClerx_Services",
+    "cmp": 2206.35
+  },
+  {
+    "company": "Elantas_Beck",
+    "cmp": 3756.5
+  },
+  {
+    "company": "Eldeco_Housing",
+    "cmp": 3101.7
+  },
+  {
+    "company": "Elecon_Engg.Co",
+    "cmp": 168.35
+  },
+  {
+    "company": "Elnet_Technolog",
+    "cmp": 172.25
+  },
+  {
+    "company": "Emami",
+    "cmp": 569.95
+  },
+  {
+    "company": "Emk.Global_Fin.",
+    "cmp": 114.55
+  },
+  {
+    "company": "Emmessar_Biotech",
+    "cmp": 33.9
+  },
+  {
+    "company": "Equitas_Holdings",
+    "cmp": 120.2
+  },
+  {
+    "company": "ERIS_Lifescience",
+    "cmp": 767.85
+  },
+  {
+    "company": "Escorts",
+    "cmp": 1471.95
+  },
+  {
+    "company": "ETT_Ltd",
+    "cmp": 30.75
+  },
+  {
+    "company": "Everest_Kanto",
+    "cmp": 117.65
+  },
+  {
+    "company": "Expleo_Solutions",
+    "cmp": 1008.35
+  },
+  {
+    "company": "Exxaro_Tiles",
+    "cmp": 152.85
+  },
+  {
+    "company": "FACT",
+    "cmp": 126.05
+  },
+  {
+    "company": "Finolex_Inds.",
+    "cmp": 216
+  },
+  {
+    "company": "Flex_Foods",
+    "cmp": 104.05
+  },
+  {
+    "company": "Flomic_Global",
+    "cmp": 98.8
+  },
+  {
+    "company": "Flora_Textiles",
+    "cmp": 7.35
+  },
+  {
+    "company": "Freshtrop_Fruits",
+    "cmp": 113.95
+  },
+  {
+    "company": "Futuristic_Solu",
+    "cmp": 19.8
+  },
+  {
+    "company": "Galaxy_Surfact.",
+    "cmp": 3392.1
+  },
+  {
+    "company": "Gallantt_Metal",
+    "cmp": 76
+  },
+  {
+    "company": "Ganges_Securitie",
+    "cmp": 90.25
+  },
+  {
+    "company": "Garg_Furnace",
+    "cmp": 24.7
+  },
+  {
+    "company": "Garnet_Construct",
+    "cmp": 24.6
+  },
+  {
+    "company": "Garware_Hi_Tech",
+    "cmp": 928.15
+  },
+  {
+    "company": "Garware_Marine",
+    "cmp": 7.45
+  },
+  {
+    "company": "Garware_Tech.",
+    "cmp": 3329.05
+  },
+  {
+    "company": "GE_Shipping_Co",
+    "cmp": 367.25
+  },
+  {
+    "company": "GE_T&D_India",
+    "cmp": 127.4
+  },
+  {
+    "company": "GIC_Housing_Fin",
+    "cmp": 148.55
+  },
+  {
+    "company": "Gillette_India",
+    "cmp": 5869.15
+  },
+  {
+    "company": "GKW",
+    "cmp": 640.6
+  },
+  {
+    "company": "Glaxosmi._Pharma",
+    "cmp": 1469.3
+  },
+  {
+    "company": "Glenmark_Pharma.",
+    "cmp": 513.15
+  },
+  {
+    "company": "Globus_Spirits",
+    "cmp": 1336.4
+  },
+  {
+    "company": "GNFC",
+    "cmp": 425.2
+  },
+  {
+    "company": "Godawari_Power",
+    "cmp": 1280.9
+  },
+  {
+    "company": "Godrej_Consumer",
+    "cmp": 1020.35
+  },
+  {
+    "company": "Goenka_Business",
+    "cmp": 6.51
+  },
+  {
+    "company": "Goodyear_India",
+    "cmp": 1038.15
+  },
+  {
+    "company": "Gorani_Industrie",
+    "cmp": 26
+  },
+  {
+    "company": "GPT_Infraproject",
+    "cmp": 91.65
+  },
+  {
+    "company": "Gravita_India",
+    "cmp": 197.8
+  },
+  {
+    "company": "Greenpanel_Inds.",
+    "cmp": 325.1
+  },
+  {
+    "company": "Gretex_Corporate",
+    "cmp": 201.25
+  },
+  {
+    "company": "Grindwell_Norton",
+    "cmp": 1424.65
+  },
+  {
+    "company": "Grob_Tea_Co",
+    "cmp": 1076.6
+  },
+  {
+    "company": "GSFC",
+    "cmp": 128.45
+  },
+  {
+    "company": "GTPL_Hathway",
+    "cmp": 293.6
+  },
+  {
+    "company": "Gufic_BioScience",
+    "cmp": 192.75
+  },
+  {
+    "company": "Guj._Containers",
+    "cmp": 49.95
+  },
+  {
+    "company": "Gulshan_Polyols",
+    "cmp": 281.85
+  },
+  {
+    "company": "H_P_Cotton_Tex",
+    "cmp": 92.55
+  },
+  {
+    "company": "Hariyana_Ship",
+    "cmp": 110.7
+  },
+  {
+    "company": "Harri._Malayalam",
+    "cmp": 189.4
+  },
+  {
+    "company": "Hatsun_Agro",
+    "cmp": 1424.45
+  },
+  {
+    "company": "Haz.Multi_Proj.",
+    "cmp": 17.75
+  },
+  {
+    "company": "HB_Portfolio",
+    "cmp": 32.6
+  },
+  {
+    "company": "HCL_Technologies",
+    "cmp": 1273.75
+  },
+  {
+    "company": "Heritage_Foods",
+    "cmp": 462.3
+  },
+  {
+    "company": "Hester_Bios",
+    "cmp": 2459.5
+  },
+  {
+    "company": "HG_Industries",
+    "cmp": 92.1
+  },
+  {
+    "company": "High_Energy_Bat.",
+    "cmp": 1939.8
+  },
+  {
+    "company": "Hikal",
+    "cmp": 576.55
+  },
+  {
+    "company": "Hiliks_Technolog",
+    "cmp": 15.3
+  },
+  {
+    "company": "Hind.Aeronautics",
+    "cmp": 1338
+  },
+  {
+    "company": "Hind.Composites",
+    "cmp": 325.4
+  },
+  {
+    "company": "Hindustan_Copper",
+    "cmp": 109.85
+  },
+  {
+    "company": "Hindustan_Hardy",
+    "cmp": 266.05
+  },
+  {
+    "company": "Hindustan_Zinc",
+    "cmp": 306.15
+  },
+  {
+    "company": "Hitech_Corp.",
+    "cmp": 222.3
+  },
+  {
+    "company": "IFB_Industries",
+    "cmp": 1193.6
+  },
+  {
+    "company": "IFGL_Refractori.",
+    "cmp": 317.7
+  },
+  {
+    "company": "Indbank_Merchant",
+    "cmp": 23.1
+  },
+  {
+    "company": "India_Gelatine",
+    "cmp": 141.9
+  },
+  {
+    "company": "India_Power_Corp",
+    "cmp": 15.5
+  },
+  {
+    "company": "Indiamart_Inter.",
+    "cmp": 8310.6
+  },
+  {
+    "company": "Indian_Energy_Ex",
+    "cmp": 620.35
+  },
+  {
+    "company": "Indian_Metals",
+    "cmp": 768.85
+  },
+  {
+    "company": "Indian_Toners",
+    "cmp": 155.15
+  },
+  {
+    "company": "Indo_Asia_Financ",
+    "cmp": 6.56
+  },
+  {
+    "company": "Indo_Tech.Trans.",
+    "cmp": 153.95
+  },
+  {
+    "company": "Indoco_Remedies",
+    "cmp": 446.85
+  },
+  {
+    "company": "INEOS_Styrolut.",
+    "cmp": 1404.8
+  },
+  {
+    "company": "Infosys",
+    "cmp": 1665.15
+  },
+  {
+    "company": "Intec_Capital",
+    "cmp": 16.65
+  },
+  {
+    "company": "Inter_State_Oil",
+    "cmp": 16.45
+  },
+  {
+    "company": "Intl._Conveyors",
+    "cmp": 70.85
+  },
+  {
+    "company": "Intrasoft_Tech.",
+    "cmp": 127.4
+  },
+  {
+    "company": "IOB",
+    "cmp": 22.5
+  },
+  {
+    "company": "ION_Exchange",
+    "cmp": 2225.6
+  },
+  {
+    "company": "IRIS_Business",
+    "cmp": 111
+  },
+  {
+    "company": "IST",
+    "cmp": 492.75
+  },
+  {
+    "company": "J_B_Chem_&_Pharm",
+    "cmp": 1886.2
+  },
+  {
+    "company": "J_K_Cements",
+    "cmp": 3208.5
+  },
+  {
+    "company": "Jagsonpal_Pharma",
+    "cmp": 155.6
+  },
+  {
+    "company": "Jainex_Aamcol",
+    "cmp": 50.25
+  },
+  {
+    "company": "Jamna_Auto_Inds.",
+    "cmp": 90.05
+  },
+  {
+    "company": "Jay_Shree_Tea",
+    "cmp": 105.8
+  },
+  {
+    "company": "Jeevan_Scienti.",
+    "cmp": 93.85
+  },
+  {
+    "company": "Jenburkt_Pharma",
+    "cmp": 480.85
+  },
+  {
+    "company": "Jet_Freight",
+    "cmp": 52
+  },
+  {
+    "company": "Jindal_Poly_Film",
+    "cmp": 1013.55
+  },
+  {
+    "company": "Jindal_Stain.",
+    "cmp": 168.35
+  },
+  {
+    "company": "Jindal_Stain._Hi",
+    "cmp": 298.25
+  },
+  {
+    "company": "Jindal_Steel",
+    "cmp": 401.7
+  },
+  {
+    "company": "Jindal_Worldwide",
+    "cmp": 93.9
+  },
+  {
+    "company": "JK_Lakshmi_Cem.",
+    "cmp": 627
+  },
+  {
+    "company": "JK_Tyre_&_Indust",
+    "cmp": 148.9
+  },
+  {
+    "company": "Jonjua_Overseas",
+    "cmp": 14.09
+  },
+  {
+    "company": "JSL_Industries",
+    "cmp": 210
+  },
+  {
+    "company": "JSW_Steel",
+    "cmp": 674.25
+  },
+  {
+    "company": "Jubilant_Pharmo",
+    "cmp": 628.5
+  },
+  {
+    "company": "Jullundur_Motor",
+    "cmp": 60.9
+  },
+  {
+    "company": "Jyothy_Labs",
+    "cmp": 167.4
+  },
+  {
+    "company": "K_P_R_Mill_Ltd",
+    "cmp": 426.05
+  },
+  {
+    "company": "Kabra_Extrusion",
+    "cmp": 258.85
+  },
+  {
+    "company": "Kakatiya_Cement",
+    "cmp": 241.65
+  },
+  {
+    "company": "Kalyani_Forge",
+    "cmp": 199.95
+  },
+  {
+    "company": "Kanco_Tea",
+    "cmp": 70
+  },
+  {
+    "company": "Kanoria_Chem.",
+    "cmp": 201.7
+  },
+  {
+    "company": "Kansal_Fibres",
+    "cmp": 9.5
+  },
+  {
+    "company": "Karur_Vysya_Bank",
+    "cmp": 47
+  },
+  {
+    "company": "KCP",
+    "cmp": 136.4
+  },
+  {
+    "company": "Keerthi_Indus",
+    "cmp": 149.95
+  },
+  {
+    "company": "Kernex_Microsys.",
+    "cmp": 73.4
+  },
+  {
+    "company": "Khaitan_Chemical",
+    "cmp": 59.1
+  },
+  {
+    "company": "KLG_Capital",
+    "cmp": 7.4
+  },
+  {
+    "company": "KMG_Milk_Food",
+    "cmp": 15
+  },
+  {
+    "company": "Kothari_Petroche",
+    "cmp": 51.9
+  },
+  {
+    "company": "Kreon_Finnancial",
+    "cmp": 15.27
+  },
+  {
+    "company": "Krishna_Institu.",
+    "cmp": 1212
+  },
+  {
+    "company": "Kriti_Industries",
+    "cmp": 137.2
+  },
+  {
+    "company": "Kwality_Pharma",
+    "cmp": 878.9
+  },
+  {
+    "company": "L_G_Balakrishnan",
+    "cmp": 452.85
+  },
+  {
+    "company": "L_T_Foods",
+    "cmp": 71.85
+  },
+  {
+    "company": "La_Tim_Metal_&_I",
+    "cmp": 90.05
+  },
+  {
+    "company": "Ladderup_Finance",
+    "cmp": 23.7
+  },
+  {
+    "company": "Lagnam_Spintex",
+    "cmp": 47.3
+  },
+  {
+    "company": "Lak._Mach._Works",
+    "cmp": 8111.85
+  },
+  {
+    "company": "Lakshmi_Mills",
+    "cmp": 3127.7
+  },
+  {
+    "company": "Lasa_Supergeneri",
+    "cmp": 76.35
+  },
+  {
+    "company": "Ledo_Tea",
+    "cmp": 27.9
+  },
+  {
+    "company": "LGB_Forge",
+    "cmp": 6.7
+  },
+  {
+    "company": "Lincoln_Pharma.",
+    "cmp": 393.25
+  },
+  {
+    "company": "Linde_India",
+    "cmp": 2627.95
+  },
+  {
+    "company": "Lokesh_Mach.",
+    "cmp": 51.5
+  },
+  {
+    "company": "Lotus_Eye_Hospit",
+    "cmp": 48.1
+  },
+  {
+    "company": "Loyal_Textile",
+    "cmp": 706.45
+  },
+  {
+    "company": "M&M",
+    "cmp": 827.85
+  },
+  {
+    "company": "Mac_Charles(I)",
+    "cmp": 575
+  },
+  {
+    "company": "Madras_Fertilize",
+    "cmp": 30.5
+  },
+  {
+    "company": "Maha_Rashtra_Apx",
+    "cmp": 87.2
+  },
+  {
+    "company": "Mahalaxmi_Seam.",
+    "cmp": 8.2
+  },
+  {
+    "company": "Manaksia_Steels",
+    "cmp": 31.85
+  },
+  {
+    "company": "Manali_Petrochem",
+    "cmp": 125.8
+  },
+  {
+    "company": "Mangalam_Cement",
+    "cmp": 450.5
+  },
+  {
+    "company": "MANGALAM_SEEDS",
+    "cmp": 88.85
+  },
+  {
+    "company": "Maral_Overseas",
+    "cmp": 80.2
+  },
+  {
+    "company": "Marksans_Pharma",
+    "cmp": 68.9
+  },
+  {
+    "company": "Master_Trust",
+    "cmp": 91.65
+  },
+  {
+    "company": "Matrimony.com",
+    "cmp": 978.05
+  },
+  {
+    "company": "Max_Ventures",
+    "cmp": 116.35
+  },
+  {
+    "company": "MBL_Infrast",
+    "cmp": 18.85
+  },
+  {
+    "company": "Medi_Caps",
+    "cmp": 41.9
+  },
+  {
+    "company": "Medico_Remedies",
+    "cmp": 269.85
+  },
+  {
+    "company": "Medinova_Diagno.",
+    "cmp": 49.25
+  },
+  {
+    "company": "Meera_Industries",
+    "cmp": 85.1
+  },
+  {
+    "company": "Mehai_Technology",
+    "cmp": 41.9
+  },
+  {
+    "company": "MEP_Infrast.",
+    "cmp": 20.65
+  },
+  {
+    "company": "Mercury_Labs",
+    "cmp": 698.95
+  },
+  {
+    "company": "Mindteck_(India)",
+    "cmp": 90.2
+  },
+  {
+    "company": "Mitsu_Chem_Plast",
+    "cmp": 286.8
+  },
+  {
+    "company": "Mohit_Industries",
+    "cmp": 12.8
+  },
+  {
+    "company": "Moongipa_Capital",
+    "cmp": 10.8
+  },
+  {
+    "company": "Morepen_Labs.",
+    "cmp": 56.1
+  },
+  {
+    "company": "Motil.Oswal.Fin.",
+    "cmp": 872.25
+  },
+  {
+    "company": "Mrs_Bectors",
+    "cmp": 410.05
+  },
+  {
+    "company": "MSP_Steel_&_Pow.",
+    "cmp": 9.75
+  },
+  {
+    "company": "Mudunuru",
+    "cmp": 6.81
+  },
+  {
+    "company": "Mukesh_Babu_Fin.",
+    "cmp": 130.15
+  },
+  {
+    "company": "Muller_&_Phipps",
+    "cmp": 118
+  },
+  {
+    "company": "Munjal_Auto_Inds",
+    "cmp": 58.65
+  },
+  {
+    "company": "Natl._Aluminium",
+    "cmp": 95.5
+  },
+  {
+    "company": "Natl._Peroxide",
+    "cmp": 2261.5
+  },
+  {
+    "company": "Nazara_Technolo.",
+    "cmp": 2327
+  },
+  {
+    "company": "NBCC",
+    "cmp": 48.2
+  },
+  {
+    "company": "NCL_Industries",
+    "cmp": 233.6
+  },
+  {
+    "company": "NDA_Securities",
+    "cmp": 40.4
+  },
+  {
+    "company": "Nestle_India",
+    "cmp": 19549.95
+  },
+  {
+    "company": "Neuland_Labs.",
+    "cmp": 1523.9
+  },
+  {
+    "company": "NGL_Fine_Chem",
+    "cmp": 2777.2
+  },
+  {
+    "company": "Nirlon",
+    "cmp": 367.85
+  },
+  {
+    "company": "Nitin_Spinners",
+    "cmp": 212.05
+  },
+  {
+    "company": "Nitta_Gelatin",
+    "cmp": 236.05
+  },
+  {
+    "company": "Norben_Tea",
+    "cmp": 6.8
+  },
+  {
+    "company": "NRB_Indl_Bearing",
+    "cmp": 18.6
+  },
+  {
+    "company": "Nucleus_Soft.",
+    "cmp": 581.65
+  },
+  {
+    "company": "Objectone_Inform",
+    "cmp": 6.6
+  },
+  {
+    "company": "ONGC",
+    "cmp": 146.25
+  },
+  {
+    "company": "Oracle_Fin.Serv.",
+    "cmp": 4512.25
+  },
+  {
+    "company": "Orient_Electric",
+    "cmp": 330.7
+  },
+  {
+    "company": "OTCO_Intl",
+    "cmp": 5.98
+  },
+  {
+    "company": "P_&_G_Hygiene",
+    "cmp": 14048.3
+  },
+  {
+    "company": "Pacific_Inds",
+    "cmp": 496.25
+  },
+  {
+    "company": "Panache_Digilife",
+    "cmp": 56.1
+  },
+  {
+    "company": "Panama_Petrochem",
+    "cmp": 268.2
+  },
+  {
+    "company": "Panasonic_Energy",
+    "cmp": 295.2
+  },
+  {
+    "company": "Panchmahal_Steel",
+    "cmp": 87
+  },
+  {
+    "company": "Pankaj_Piyush",
+    "cmp": 46.2
+  },
+  {
+    "company": "Parmax_Pharma",
+    "cmp": 40.25
+  },
+  {
+    "company": "Peria_Kara._Tea",
+    "cmp": 321.7
+  },
+  {
+    "company": "Persistent_Sys",
+    "cmp": 3643.25
+  },
+  {
+    "company": "Pharmaids_Pharma",
+    "cmp": 14.48
+  },
+  {
+    "company": "Piramal_Enterp.",
+    "cmp": 2655.4
+  },
+  {
+    "company": "Pix_Transmission",
+    "cmp": 821.95
+  },
+  {
+    "company": "PNB_Gilts",
+    "cmp": 66.6
+  },
+  {
+    "company": "Poddar_Pigments",
+    "cmp": 347.9
+  },
+  {
+    "company": "Polo_Queen_Ind.",
+    "cmp": 10.65
+  },
+  {
+    "company": "Polyplex_Corpn",
+    "cmp": 1768.1
+  },
+  {
+    "company": "Power_Grid_Corpn",
+    "cmp": 191.85
+  },
+  {
+    "company": "Premco_Global",
+    "cmp": 514.4
+  },
+  {
+    "company": "Premier_Polyfilm",
+    "cmp": 68.05
+  },
+  {
+    "company": "Pressman_Adv.",
+    "cmp": 27.1
+  },
+  {
+    "company": "Pricol_Ltd",
+    "cmp": 102.8
+  },
+  {
+    "company": "Prima_Agro",
+    "cmp": 40
+  },
+  {
+    "company": "Prince_Pipes",
+    "cmp": 691.35
+  },
+  {
+    "company": "Prism_Finance",
+    "cmp": 20.65
+  },
+  {
+    "company": "Punjab_Chemicals",
+    "cmp": 1589.25
+  },
+  {
+    "company": "R_Systems_Intl.",
+    "cmp": 222.25
+  },
+  {
+    "company": "Raj_Oil_Mills",
+    "cmp": 91.6
+  },
+  {
+    "company": "Raj_Packaging",
+    "cmp": 34.95
+  },
+  {
+    "company": "Raj_Television",
+    "cmp": 35.55
+  },
+  {
+    "company": "Rajas._Tube_Mfg",
+    "cmp": 15.01
+  },
+  {
+    "company": "Rajoo_Engineers",
+    "cmp": 25.25
+  },
+  {
+    "company": "Rajratan_Global",
+    "cmp": 2011.95
+  },
+  {
+    "company": "Rallis_India",
+    "cmp": 284.8
+  },
+  {
+    "company": "Rama_Steel_Tubes",
+    "cmp": 245.05
+  },
+  {
+    "company": "Ramco_Systems",
+    "cmp": 482.7
+  },
+  {
+    "company": "Ramgopal_Polytex",
+    "cmp": 15.22
+  },
+  {
+    "company": "Ramky_Infra",
+    "cmp": 140.8
+  },
+  {
+    "company": "Rana_Sugars",
+    "cmp": 24.65
+  },
+  {
+    "company": "Rane_Brake_Lin.",
+    "cmp": 870.55
+  },
+  {
+    "company": "Reliance_Power",
+    "cmp": 13.6
+  },
+  {
+    "company": "Resonance_Speci.",
+    "cmp": 237.65
+  },
+  {
+    "company": "Rexnord_Electr.",
+    "cmp": 50.7
+  },
+  {
+    "company": "Ritesh_Propertie",
+    "cmp": 221.6
+  },
+  {
+    "company": "Rossell_India",
+    "cmp": 155.5
+  },
+  {
+    "company": "Roto_Pumps",
+    "cmp": 332.8
+  },
+  {
+    "company": "Route_Mobile",
+    "cmp": 2042.15
+  },
+  {
+    "company": "RPG_LifeScience.",
+    "cmp": 680.15
+  },
+  {
+    "company": "Rupa_&_Co",
+    "cmp": 445.8
+  },
+  {
+    "company": "S_Chand_&_Compan",
+    "cmp": 111.95
+  },
+  {
+    "company": "S_V_Global_Mill",
+    "cmp": 87.6
+  },
+  {
+    "company": "SagarSoft_(India",
+    "cmp": 185.95
+  },
+  {
+    "company": "Sahara_Housing",
+    "cmp": 48.7
+  },
+  {
+    "company": "SAIL",
+    "cmp": 114.8
+  },
+  {
+    "company": "Sam_Industries",
+    "cmp": 23.85
+  },
+  {
+    "company": "Sanco_Trans",
+    "cmp": 491.2
+  },
+  {
+    "company": "Sandu_Pharma.",
+    "cmp": 49.25
+  },
+  {
+    "company": "Sanghi_Industrie",
+    "cmp": 66.45
+  },
+  {
+    "company": "Sanofi_India",
+    "cmp": 7874.7
+  },
+  {
+    "company": "Sanrhea_Tech.",
+    "cmp": 94.15
+  },
+  {
+    "company": "Sarthak_Industri",
+    "cmp": 105.55
+  },
+  {
+    "company": "Sasken_Technol.",
+    "cmp": 1346.6
+  },
+  {
+    "company": "Sat_Industries",
+    "cmp": 34.85
+  },
+  {
+    "company": "Sayaji_Industr",
+    "cmp": 225.5
+  },
+  {
+    "company": "SBI",
+    "cmp": 451.65
+  },
+  {
+    "company": "Scan_Steels",
+    "cmp": 44.85
+  },
+  {
+    "company": "Scandent_Imaging",
+    "cmp": 22.2
+  },
+  {
+    "company": "SCI",
+    "cmp": 125.1
+  },
+  {
+    "company": "Sequent_Scien.",
+    "cmp": 213.95
+  },
+  {
+    "company": "Sh._Ajit_Pulp",
+    "cmp": 328.6
+  },
+  {
+    "company": "Sh._Dinesh_Mills",
+    "cmp": 641.4
+  },
+  {
+    "company": "Sh._Jagdamba_Pol",
+    "cmp": 1181.5
+  },
+  {
+    "company": "Sh._Krish._Infr.",
+    "cmp": 7
+  },
+  {
+    "company": "Shakti_Pumps",
+    "cmp": 702.95
+  },
+  {
+    "company": "Shalby",
+    "cmp": 174.35
+  },
+  {
+    "company": "Shankar_Lal_Ram.",
+    "cmp": 91.3
+  },
+  {
+    "company": "Sharika_Enterpr.",
+    "cmp": 9.22
+  },
+  {
+    "company": "Shilchar_Tech.",
+    "cmp": 216
+  },
+  {
+    "company": "Shilp_Gravures",
+    "cmp": 115.25
+  },
+  {
+    "company": "Shiva_Global",
+    "cmp": 61.85
+  },
+  {
+    "company": "Shiva_Texyarn",
+    "cmp": 193.6
+  },
+  {
+    "company": "Shivalik_Bimetal",
+    "cmp": 273.75
+  },
+  {
+    "company": "Shree_Cement",
+    "cmp": 29099.55
+  },
+  {
+    "company": "Shreyas_Shipping",
+    "cmp": 383.15
+  },
+  {
+    "company": "SHRI_NIWAS_L&_F.",
+    "cmp": 7.38
+  },
+  {
+    "company": "Shriram_Pistons",
+    "cmp": 936.9
+  },
+  {
+    "company": "Shyam_Century",
+    "cmp": 13.95
+  },
+  {
+    "company": "Shyam_Metalics",
+    "cmp": 372.7
+  },
+  {
+    "company": "Sika_Interplant",
+    "cmp": 714.75
+  },
+  {
+    "company": "Simran_Farms",
+    "cmp": 108.4
+  },
+  {
+    "company": "Singer_India",
+    "cmp": 61.7
+  },
+  {
+    "company": "Skyline_Millars",
+    "cmp": 9.97
+  },
+  {
+    "company": "Smartlink_Hold.",
+    "cmp": 118.75
+  },
+  {
+    "company": "SMIFS_Cap._Mkt.",
+    "cmp": 40.5
+  },
+  {
+    "company": "SNL_Bearings",
+    "cmp": 238.55
+  },
+  {
+    "company": "Snowman_Logistic",
+    "cmp": 43.15
+  },
+  {
+    "company": "Softsol_India",
+    "cmp": 147.45
+  },
+  {
+    "company": "Solitaire_Mach.",
+    "cmp": 33.95
+  },
+  {
+    "company": "Somany_Ceramics",
+    "cmp": 782.45
+  },
+  {
+    "company": "Somany_Home_Inn.",
+    "cmp": 427.45
+  },
+  {
+    "company": "SORIL_Infra",
+    "cmp": 107.85
+  },
+  {
+    "company": "South_West_Pinn.",
+    "cmp": 104.1
+  },
+  {
+    "company": "Spaceage_Product",
+    "cmp": 72
+  },
+  {
+    "company": "Sportking_India",
+    "cmp": 1685.6
+  },
+  {
+    "company": "Standard_Inds.",
+    "cmp": 14.85
+  },
+  {
+    "company": "Steel_City_Sec.",
+    "cmp": 58.25
+  },
+  {
+    "company": "STL_Global",
+    "cmp": 12.45
+  },
+  {
+    "company": "Stove_Kraft",
+    "cmp": 1068.15
+  },
+  {
+    "company": "Stylam_Industrie",
+    "cmp": 1114.6
+  },
+  {
+    "company": "Sumitomo_Chemi.",
+    "cmp": 397.6
+  },
+  {
+    "company": "Sumuka_Agro",
+    "cmp": 17.35
+  },
+  {
+    "company": "Sun_Pharma.Inds.",
+    "cmp": 826.6
+  },
+  {
+    "company": "Sun_TV_Network",
+    "cmp": 520.95
+  },
+  {
+    "company": "Sunflag_Iron",
+    "cmp": 82
+  },
+  {
+    "company": "Sunil_Agro_Foods",
+    "cmp": 81.5
+  },
+  {
+    "company": "Sunshield_Chem.",
+    "cmp": 359.55
+  },
+  {
+    "company": "Super_Sales_Ind.",
+    "cmp": 632.2
+  },
+  {
+    "company": "Suprajit_Engg.",
+    "cmp": 323.95
+  },
+  {
+    "company": "Supreme_Inds.",
+    "cmp": 2321.6
+  },
+  {
+    "company": "Supreme_Petroch.",
+    "cmp": 718.15
+  },
+  {
+    "company": "Suraj_Products",
+    "cmp": 67.9
+  },
+  {
+    "company": "Surana_Telecom",
+    "cmp": 8.75
+  },
+  {
+    "company": "Surani_Steel_Tub",
+    "cmp": 42
+  },
+  {
+    "company": "Surya_Roshni",
+    "cmp": 828.35
+  },
+  {
+    "company": "Suryavanshi_Spg.",
+    "cmp": 13.01
+  },
+  {
+    "company": "Swastika_Investm",
+    "cmp": 131.5
+  },
+  {
+    "company": "T_R_I_L",
+    "cmp": 26.95
+  },
+  {
+    "company": "TAAL_Enterprises",
+    "cmp": 938.05
+  },
+  {
+    "company": "Talbros_Auto.",
+    "cmp": 282.05
+  },
+  {
+    "company": "Talbros_Engg.",
+    "cmp": 239.55
+  },
+  {
+    "company": "Tamboli_Capital",
+    "cmp": 55.45
+  },
+  {
+    "company": "Taneja_Aerospace",
+    "cmp": 64.9
+  },
+  {
+    "company": "Tanla_Platforms",
+    "cmp": 915.95
+  },
+  {
+    "company": "Tata_Coffee",
+    "cmp": 201.4
+  },
+  {
+    "company": "Tata_Comm",
+    "cmp": 1410.65
+  },
+  {
+    "company": "Tata_Steel_BSL",
+    "cmp": 85.05
+  },
+  {
+    "company": "Tata_Steel_Long",
+    "cmp": 921.95
+  },
+  {
+    "company": "TBZ",
+    "cmp": 80.05
+  },
+  {
+    "company": "Team_Lease_Serv.",
+    "cmp": 4567.7
+  },
+  {
+    "company": "Technvision_Ven.",
+    "cmp": 201.9
+  },
+  {
+    "company": "Thakkers_Develp.",
+    "cmp": 73.45
+  },
+  {
+    "company": "Thermax",
+    "cmp": 1342.25
+  },
+  {
+    "company": "Thirumalai_Chem.",
+    "cmp": 299.9
+  },
+  {
+    "company": "Tinplate_Co.",
+    "cmp": 291.85
+  },
+  {
+    "company": "Titan_Biotech",
+    "cmp": 336.15
+  },
+  {
+    "company": "Torrent_Pharma.",
+    "cmp": 3080.55
+  },
+  {
+    "company": "Trigyn_Techno.",
+    "cmp": 113.15
+  },
+  {
+    "company": "TT",
+    "cmp": 63.85
+  },
+  {
+    "company": "TTK_Healthcare",
+    "cmp": 667.5
+  },
+  {
+    "company": "TTK_Prestige",
+    "cmp": 8878.4
+  },
+  {
+    "company": "TV18_Broadcast",
+    "cmp": 41.55
+  },
+  {
+    "company": "Tyroon_Tea_Co.",
+    "cmp": 69.85
+  },
+  {
+    "company": "Udaipur_Cement",
+    "cmp": 39.25
+  },
+  {
+    "company": "Uflex",
+    "cmp": 535.6
+  },
+  {
+    "company": "Umang_Dairies",
+    "cmp": 72.4
+  },
+  {
+    "company": "Uni_Abex_Alloy",
+    "cmp": 596.65
+  },
+  {
+    "company": "Unichem_Labs.",
+    "cmp": 275.3
+  },
+  {
+    "company": "Universal_Auto.",
+    "cmp": 52.25
+  },
+  {
+    "company": "Universal_Starch",
+    "cmp": 102
+  },
+  {
+    "company": "UPL",
+    "cmp": 712.65
+  },
+  {
+    "company": "UTI_AMC",
+    "cmp": 1050.2
+  },
+  {
+    "company": "Uttam_Sug.Mills",
+    "cmp": 184.3
+  },
+  {
+    "company": "Vadilal_Enterp.",
+    "cmp": 1816
+  },
+  {
+    "company": "Vaishali_Pharma",
+    "cmp": 37
+  },
+  {
+    "company": "Valiant_Commun.",
+    "cmp": 113.5
+  },
+  {
+    "company": "Vapi_Paper_Mills",
+    "cmp": 27.05
+  },
+  {
+    "company": "Vedanta",
+    "cmp": 285.85
+  },
+  {
+    "company": "Vibrant_Glo._Cap",
+    "cmp": 68
+  },
+  {
+    "company": "Vijaya_Diagnost.",
+    "cmp": 551.3
+  },
+  {
+    "company": "Vimta_Labs",
+    "cmp": 278.3
+  },
+  {
+    "company": "Vishwaraj_Sugar",
+    "cmp": 145.45
+  },
+  {
+    "company": "Vistar_Amar",
+    "cmp": 68.4
+  },
+  {
+    "company": "VLS_Finance",
+    "cmp": 195.4
+  },
+  {
+    "company": "VMS_Industries",
+    "cmp": 12.95
+  },
+  {
+    "company": "Voith_Paper",
+    "cmp": 1310.35
+  },
+  {
+    "company": "VST_Till._Tract.",
+    "cmp": 2962.5
+  },
+  {
+    "company": "W_H_Brady",
+    "cmp": 163.15
+  },
+  {
+    "company": "Waa_Solar",
+    "cmp": 32.45
+  },
+  {
+    "company": "Weizmann",
+    "cmp": 47.35
+  },
+  {
+    "company": "Welspun_India",
+    "cmp": 163
+  },
+  {
+    "company": "Windsor_Machines",
+    "cmp": 30.5
+  },
+  {
+    "company": "WPIL",
+    "cmp": 846.45
+  },
+  {
+    "company": "Xchanging_Sol.",
+    "cmp": 108.2
+  },
+  {
+    "company": "XPRO_India",
+    "cmp": 580.05
+  },
+  {
+    "company": "Yasho_Industries",
+    "cmp": 906
+  },
+  {
+    "company": "Zee_Entertainmen",
+    "cmp": 295.85
+  },
+  {
+    "company": "Zee_Media",
+    "cmp": 14.55
+  },
+  {
+    "company": "Zim_Laboratories",
+    "cmp": 137.35
+  },
+  {
+    "company": "Zuari_Global",
+    "cmp": 130.9
+  },
+  {
+    "company": "Zydus_Wellness",
+    "cmp": 2320.95
+  }
+]
